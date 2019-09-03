@@ -1,0 +1,7 @@
+--configuration ios.sim.debug
+--cleanup 
+--loglevel trace
+--recursive 
+--timeout 30000
+--bail 
+--file e2e/init.js

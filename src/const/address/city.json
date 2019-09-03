@@ -1,0 +1,2736 @@
+[
+  {
+    "id": "5b7fa0e489eb3a1e28c5f103",
+    "code": "130100",
+    "name": "石家庄市",
+    "parentCode": "130000",
+    "longitude": "114.514859",
+    "latitude": "38.042306"
+  },
+  {
+    "id": "5b7fa0e789eb3a1e28c5f11d",
+    "code": "130200",
+    "name": "唐山市",
+    "parentCode": "130000",
+    "longitude": "118.180193",
+    "latitude": "39.630867"
+  },
+  {
+    "id": "5b7fa0e989eb3a1e28c5f131",
+    "code": "130300",
+    "name": "秦皇岛市",
+    "parentCode": "130000",
+    "longitude": "119.600492",
+    "latitude": "39.935385"
+  },
+  {
+    "id": "5b7fa0ea89eb3a1e28c5f13c",
+    "code": "130400",
+    "name": "邯郸市",
+    "parentCode": "130000",
+    "longitude": "114.538961",
+    "latitude": "36.625657"
+  },
+  {
+    "id": "5b7fa0ed89eb3a1e28c5f152",
+    "code": "130500",
+    "name": "邢台市",
+    "parentCode": "130000",
+    "longitude": "114.504844",
+    "latitude": "37.070589"
+  },
+  {
+    "id": "5b7fa0ef89eb3a1e28c5f168",
+    "code": "130600",
+    "name": "保定市",
+    "parentCode": "130000",
+    "longitude": "115.464806",
+    "latitude": "38.873891"
+  },
+  {
+    "id": "5b7fa0f289eb3a1e28c5f184",
+    "code": "130700",
+    "name": "张家口市",
+    "parentCode": "130000",
+    "longitude": "114.887543",
+    "latitude": "40.824418"
+  },
+  {
+    "id": "5b7fa0f489eb3a1e28c5f199",
+    "code": "130800",
+    "name": "承德市",
+    "parentCode": "130000",
+    "longitude": "117.962410",
+    "latitude": "40.954071"
+  },
+  {
+    "id": "5b7fa0f589eb3a1e28c5f1a7",
+    "code": "130900",
+    "name": "沧州市",
+    "parentCode": "130000",
+    "longitude": "116.838834",
+    "latitude": "38.304477"
+  },
+  {
+    "id": "5b7fa0f889eb3a1e28c5f1bc",
+    "code": "131000",
+    "name": "廊坊市",
+    "parentCode": "130000",
+    "longitude": "116.683752",
+    "latitude": "39.538047"
+  },
+  {
+    "id": "5b7fa0f989eb3a1e28c5f1c9",
+    "code": "131100",
+    "name": "衡水市",
+    "parentCode": "130000",
+    "longitude": "115.670177",
+    "latitude": "37.738920"
+  },
+  {
+    "id": "5b7fa0fb89eb3a1e28c5f1d9",
+    "code": "140100",
+    "name": "太原市",
+    "parentCode": "140000",
+    "longitude": "112.548879",
+    "latitude": "37.870590"
+  },
+  {
+    "id": "5b7fa0fc89eb3a1e28c5f1e6",
+    "code": "140200",
+    "name": "大同市",
+    "parentCode": "140000",
+    "longitude": "113.300129",
+    "latitude": "40.076762"
+  },
+  {
+    "id": "5b7fa0fd89eb3a1e28c5f1f4",
+    "code": "140300",
+    "name": "阳泉市",
+    "parentCode": "140000",
+    "longitude": "113.580519",
+    "latitude": "37.856971"
+  },
+  {
+    "id": "5b7fa0fe89eb3a1e28c5f1fc",
+    "code": "140400",
+    "name": "长治市",
+    "parentCode": "140000",
+    "longitude": "113.116255",
+    "latitude": "36.195386"
+  },
+  {
+    "id": "5b7fa10089eb3a1e28c5f20c",
+    "code": "140500",
+    "name": "晋城市",
+    "parentCode": "140000",
+    "longitude": "112.851831",
+    "latitude": "35.490701"
+  },
+  {
+    "id": "5b7fa10189eb3a1e28c5f214",
+    "code": "140600",
+    "name": "朔州市",
+    "parentCode": "140000",
+    "longitude": "112.432825",
+    "latitude": "39.331595"
+  },
+  {
+    "id": "5b7fa10289eb3a1e28c5f21d",
+    "code": "140700",
+    "name": "晋中市",
+    "parentCode": "140000",
+    "longitude": "112.752694",
+    "latitude": "37.687024"
+  },
+  {
+    "id": "5b7fa10389eb3a1e28c5f22a",
+    "code": "140800",
+    "name": "运城市",
+    "parentCode": "140000",
+    "longitude": "111.007528",
+    "latitude": "35.026412"
+  },
+  {
+    "id": "5b7fa10589eb3a1e28c5f239",
+    "code": "140900",
+    "name": "忻州市",
+    "parentCode": "140000",
+    "longitude": "112.734174",
+    "latitude": "38.416663"
+  },
+  {
+    "id": "5b7fa10689eb3a1e28c5f24a",
+    "code": "141000",
+    "name": "临汾市",
+    "parentCode": "140000",
+    "longitude": "111.518976",
+    "latitude": "36.088005"
+  },
+  {
+    "id": "5b7fa10889eb3a1e28c5f25d",
+    "code": "141100",
+    "name": "吕梁市",
+    "parentCode": "140000",
+    "longitude": "111.144319",
+    "latitude": "37.518314"
+  },
+  {
+    "id": "5b7fa10a89eb3a1e28c5f26d",
+    "code": "150100",
+    "name": "呼和浩特市",
+    "parentCode": "150000",
+    "longitude": "111.749180",
+    "latitude": "40.842585"
+  },
+  {
+    "id": "5b7fa10b89eb3a1e28c5f27a",
+    "code": "150200",
+    "name": "包头市",
+    "parentCode": "150000",
+    "longitude": "109.840347",
+    "latitude": "40.657449"
+  },
+  {
+    "id": "5b7fa10d89eb3a1e28c5f28b",
+    "code": "150400",
+    "name": "赤峰市",
+    "parentCode": "150000",
+    "longitude": "118.886856",
+    "latitude": "42.257817"
+  },
+  {
+    "id": "5b7fa10c89eb3a1e28c5f286",
+    "code": "150300",
+    "name": "乌海市",
+    "parentCode": "150000",
+    "longitude": "106.794249",
+    "latitude": "39.655388"
+  },
+  {
+    "id": "5b7fa10e89eb3a1e28c5f299",
+    "code": "150500",
+    "name": "通辽市",
+    "parentCode": "150000",
+    "longitude": "122.243444",
+    "latitude": "43.652890"
+  },
+  {
+    "id": "5b7fa10f89eb3a1e28c5f2a4",
+    "code": "150600",
+    "name": "鄂尔多斯市",
+    "parentCode": "150000",
+    "longitude": "109.781327",
+    "latitude": "39.608266"
+  },
+  {
+    "id": "5b7fa11189eb3a1e28c5f2af",
+    "code": "150700",
+    "name": "呼伦贝尔市",
+    "parentCode": "150000",
+    "longitude": "119.765744",
+    "latitude": "49.211574"
+  },
+  {
+    "id": "5b7fa11289eb3a1e28c5f2bf",
+    "code": "150800",
+    "name": "巴彦淖尔市",
+    "parentCode": "150000",
+    "longitude": "107.387657",
+    "latitude": "40.743213"
+  },
+  {
+    "id": "5b7fa11389eb3a1e28c5f2c8",
+    "code": "150900",
+    "name": "乌兰察布市",
+    "parentCode": "150000",
+    "longitude": "113.132585",
+    "latitude": "40.994785"
+  },
+  {
+    "id": "5b7fa11489eb3a1e28c5f2d5",
+    "code": "152200",
+    "name": "兴安盟",
+    "parentCode": "150000",
+    "longitude": "122.067042",
+    "latitude": "46.077561"
+  },
+  {
+    "id": "5b7fa11589eb3a1e28c5f2dc",
+    "code": "152500",
+    "name": "锡林郭勒盟",
+    "parentCode": "150000",
+    "longitude": "116.048222",
+    "latitude": "43.933454"
+  },
+  {
+    "id": "5b7fa11789eb3a1e28c5f2ea",
+    "code": "152900",
+    "name": "阿拉善盟",
+    "parentCode": "150000",
+    "longitude": "105.728969",
+    "latitude": "38.851892"
+  },
+  {
+    "id": "5b7fa11789eb3a1e28c5f2f0",
+    "code": "210100",
+    "name": "沈阳市",
+    "parentCode": "210000",
+    "longitude": "123.431474",
+    "latitude": "41.805698"
+  },
+  {
+    "id": "5b7fa11989eb3a1e28c5f2ff",
+    "code": "210200",
+    "name": "大连市",
+    "parentCode": "210000",
+    "longitude": "121.614682",
+    "latitude": "38.914003"
+  },
+  {
+    "id": "5b7fa11a89eb3a1e28c5f30b",
+    "code": "210300",
+    "name": "鞍山市",
+    "parentCode": "210000",
+    "longitude": "122.994329",
+    "latitude": "41.108647"
+  },
+  {
+    "id": "5b7fa11b89eb3a1e28c5f314",
+    "code": "210400",
+    "name": "抚顺市",
+    "parentCode": "210000",
+    "longitude": "123.957208",
+    "latitude": "41.880872"
+  },
+  {
+    "id": "5b7fa11d89eb3a1e28c5f325",
+    "code": "210600",
+    "name": "丹东市",
+    "parentCode": "210000",
+    "longitude": "124.354706",
+    "latitude": "40.000499"
+  },
+  {
+    "id": "5b7fa11c89eb3a1e28c5f31d",
+    "code": "210500",
+    "name": "本溪市",
+    "parentCode": "210000",
+    "longitude": "123.766485",
+    "latitude": "41.294175"
+  },
+  {
+    "id": "5b7fa11e89eb3a1e28c5f32d",
+    "code": "210700",
+    "name": "锦州市",
+    "parentCode": "210000",
+    "longitude": "121.127003",
+    "latitude": "41.095119"
+  },
+  {
+    "id": "5b7fa11f89eb3a1e28c5f33e",
+    "code": "210900",
+    "name": "阜新市",
+    "parentCode": "210000",
+    "longitude": "121.670323",
+    "latitude": "42.021619"
+  },
+  {
+    "id": "5b7fa11f89eb3a1e28c5f336",
+    "code": "210800",
+    "name": "营口市",
+    "parentCode": "210000",
+    "longitude": "122.235417",
+    "latitude": "40.667012"
+  },
+  {
+    "id": "5b7fa12089eb3a1e28c5f347",
+    "code": "211000",
+    "name": "辽阳市",
+    "parentCode": "210000",
+    "longitude": "123.236944",
+    "latitude": "41.267244"
+  },
+  {
+    "id": "5b7fa12189eb3a1e28c5f350",
+    "code": "211100",
+    "name": "盘锦市",
+    "parentCode": "210000",
+    "longitude": "122.070714",
+    "latitude": "41.119997"
+  },
+  {
+    "id": "5b7fa12289eb3a1e28c5f356",
+    "code": "211200",
+    "name": "铁岭市",
+    "parentCode": "210000",
+    "longitude": "123.726166",
+    "latitude": "42.223769"
+  },
+  {
+    "id": "5b7fa12389eb3a1e28c5f35f",
+    "code": "211300",
+    "name": "朝阳市",
+    "parentCode": "210000",
+    "longitude": "120.450372",
+    "latitude": "41.573734"
+  },
+  {
+    "id": "5b7fa12489eb3a1e28c5f368",
+    "code": "211400",
+    "name": "葫芦岛市",
+    "parentCode": "210000",
+    "longitude": "120.836932",
+    "latitude": "40.711052"
+  },
+  {
+    "id": "5b7fa12589eb3a1e28c5f371",
+    "code": "220100",
+    "name": "长春市",
+    "parentCode": "220000",
+    "longitude": "125.323544",
+    "latitude": "43.817071"
+  },
+  {
+    "id": "5b7fa12689eb3a1e28c5f381",
+    "code": "220200",
+    "name": "吉林市",
+    "parentCode": "220000",
+    "longitude": "126.549576",
+    "latitude": "43.837883"
+  },
+  {
+    "id": "5b7fa12889eb3a1e28c5f38f",
+    "code": "220300",
+    "name": "四平市",
+    "parentCode": "220000",
+    "longitude": "124.350398",
+    "latitude": "43.166419"
+  },
+  {
+    "id": "5b7fa12989eb3a1e28c5f397",
+    "code": "220400",
+    "name": "辽源市",
+    "parentCode": "220000",
+    "longitude": "125.143532",
+    "latitude": "42.887918"
+  },
+  {
+    "id": "5b7fa12989eb3a1e28c5f39d",
+    "code": "220500",
+    "name": "通化市",
+    "parentCode": "220000",
+    "longitude": "125.939697",
+    "latitude": "41.728401"
+  },
+  {
+    "id": "5b7fa12a89eb3a1e28c5f3a6",
+    "code": "220600",
+    "name": "白山市",
+    "parentCode": "220000",
+    "longitude": "126.423587",
+    "latitude": "41.939994"
+  },
+  {
+    "id": "5b7fa12b89eb3a1e28c5f3ae",
+    "code": "220700",
+    "name": "松原市",
+    "parentCode": "220000",
+    "longitude": "124.825117",
+    "latitude": "45.141789"
+  },
+  {
+    "id": "5b7fa12c89eb3a1e28c5f3b6",
+    "code": "220800",
+    "name": "白城市",
+    "parentCode": "220000",
+    "longitude": "122.839024",
+    "latitude": "45.619641"
+  },
+  {
+    "id": "5b7fa12d89eb3a1e28c5f3be",
+    "code": "222400",
+    "name": "延边朝鲜族自治州",
+    "parentCode": "220000",
+    "longitude": "129.508946",
+    "latitude": "42.891253"
+  },
+  {
+    "id": "5b7fa12e89eb3a1e28c5f3c8",
+    "code": "230100",
+    "name": "哈尔滨市",
+    "parentCode": "230000",
+    "longitude": "126.534967",
+    "latitude": "45.803775"
+  },
+  {
+    "id": "5b7fa13089eb3a1e28c5f3dc",
+    "code": "230200",
+    "name": "齐齐哈尔市",
+    "parentCode": "230000",
+    "longitude": "123.918186",
+    "latitude": "47.354348"
+  },
+  {
+    "id": "5b7fa13289eb3a1e28c5f3ee",
+    "code": "230300",
+    "name": "鸡西市",
+    "parentCode": "230000",
+    "longitude": "130.969333",
+    "latitude": "45.295075"
+  },
+  {
+    "id": "5b7fa13389eb3a1e28c5f3f9",
+    "code": "230400",
+    "name": "鹤岗市",
+    "parentCode": "230000",
+    "longitude": "130.297964",
+    "latitude": "47.349916"
+  },
+  {
+    "id": "5b7fa13489eb3a1e28c5f403",
+    "code": "230500",
+    "name": "双鸭山市",
+    "parentCode": "230000",
+    "longitude": "131.159133",
+    "latitude": "46.646508"
+  },
+  {
+    "id": "5b7fa13589eb3a1e28c5f40d",
+    "code": "230600",
+    "name": "大庆市",
+    "parentCode": "230000",
+    "longitude": "125.103784",
+    "latitude": "46.589309"
+  },
+  {
+    "id": "5b7fa13689eb3a1e28c5f419",
+    "code": "230700",
+    "name": "伊春市",
+    "parentCode": "230000",
+    "longitude": "128.841147",
+    "latitude": "47.727536"
+  },
+  {
+    "id": "5b7fa13889eb3a1e28c5f42c",
+    "code": "230800",
+    "name": "佳木斯市",
+    "parentCode": "230000",
+    "longitude": "130.318917",
+    "latitude": "46.799922"
+  },
+  {
+    "id": "5b7fa13989eb3a1e28c5f438",
+    "code": "230900",
+    "name": "七台河市",
+    "parentCode": "230000",
+    "longitude": "131.003138",
+    "latitude": "45.771726"
+  },
+  {
+    "id": "5b7fa13a89eb3a1e28c5f43e",
+    "code": "231000",
+    "name": "牡丹江市",
+    "parentCode": "230000",
+    "longitude": "129.633168",
+    "latitude": "44.551653"
+  },
+  {
+    "id": "5b7fa13b89eb3a1e28c5f44b",
+    "code": "231100",
+    "name": "黑河市",
+    "parentCode": "230000",
+    "longitude": "127.528560",
+    "latitude": "50.245329"
+  },
+  {
+    "id": "5b7fa13c89eb3a1e28c5f453",
+    "code": "231200",
+    "name": "绥化市",
+    "parentCode": "230000",
+    "longitude": "126.968887",
+    "latitude": "46.653845"
+  },
+  {
+    "id": "5b7fa13d89eb3a1e28c5f45f",
+    "code": "232700",
+    "name": "大兴安岭地区",
+    "parentCode": "230000",
+    "longitude": "124.711080",
+    "latitude": "52.335206"
+  },
+  {
+    "id": "5b7fa14089eb3a1e28c5f47a",
+    "code": "320100",
+    "name": "南京市",
+    "parentCode": "320000",
+    "longitude": "118.796877",
+    "latitude": "32.060255"
+  },
+  {
+    "id": "5b7fa14189eb3a1e28c5f487",
+    "code": "320200",
+    "name": "无锡市",
+    "parentCode": "320000",
+    "longitude": "120.311910",
+    "latitude": "31.491169"
+  },
+  {
+    "id": "5b7fa14289eb3a1e28c5f490",
+    "code": "320300",
+    "name": "徐州市",
+    "parentCode": "320000",
+    "longitude": "117.284124",
+    "latitude": "34.205768"
+  },
+  {
+    "id": "5b7fa14489eb3a1e28c5f49d",
+    "code": "320400",
+    "name": "常州市",
+    "parentCode": "320000",
+    "longitude": "119.973987",
+    "latitude": "31.810689"
+  },
+  {
+    "id": "5b7fa14589eb3a1e28c5f4a5",
+    "code": "320500",
+    "name": "苏州市",
+    "parentCode": "320000",
+    "longitude": "120.585315",
+    "latitude": "31.298886"
+  },
+  {
+    "id": "5b7fa14689eb3a1e28c5f4b1",
+    "code": "320600",
+    "name": "南通市",
+    "parentCode": "320000",
+    "longitude": "120.894291",
+    "latitude": "31.980171"
+  },
+  {
+    "id": "5b7fa14789eb3a1e28c5f4bc",
+    "code": "320700",
+    "name": "连云港市",
+    "parentCode": "320000",
+    "longitude": "119.221611",
+    "latitude": "34.596653"
+  },
+  {
+    "id": "5b7fa14889eb3a1e28c5f4c6",
+    "code": "320800",
+    "name": "淮安市",
+    "parentCode": "320000",
+    "longitude": "119.015285",
+    "latitude": "33.610353"
+  },
+  {
+    "id": "5b7fa14989eb3a1e28c5f4d0",
+    "code": "320900",
+    "name": "盐城市",
+    "parentCode": "320000",
+    "longitude": "120.163561",
+    "latitude": "33.347382"
+  },
+  {
+    "id": "5b7fa14a89eb3a1e28c5f4dc",
+    "code": "321000",
+    "name": "扬州市",
+    "parentCode": "320000",
+    "longitude": "119.412966",
+    "latitude": "32.394210"
+  },
+  {
+    "id": "5b7fa14b89eb3a1e28c5f4e5",
+    "code": "321100",
+    "name": "镇江市",
+    "parentCode": "320000",
+    "longitude": "119.425836",
+    "latitude": "32.187849"
+  },
+  {
+    "id": "5b7fa14c89eb3a1e28c5f4ee",
+    "code": "321200",
+    "name": "泰州市",
+    "parentCode": "320000",
+    "longitude": "119.923116",
+    "latitude": "32.455778"
+  },
+  {
+    "id": "5b7fa14d89eb3a1e28c5f4f7",
+    "code": "321300",
+    "name": "宿迁市",
+    "parentCode": "320000",
+    "longitude": "118.275198",
+    "latitude": "33.963232"
+  },
+  {
+    "id": "5b7fa14e89eb3a1e28c5f500",
+    "code": "330100",
+    "name": "杭州市",
+    "parentCode": "330000",
+    "longitude": "120.155070",
+    "latitude": "30.274084"
+  },
+  {
+    "id": "5b7fa14f89eb3a1e28c5f50f",
+    "code": "330200",
+    "name": "宁波市",
+    "parentCode": "330000",
+    "longitude": "121.550357",
+    "latitude": "29.874556"
+  },
+  {
+    "id": "5b7fa15189eb3a1e28c5f51b",
+    "code": "330300",
+    "name": "温州市",
+    "parentCode": "330000",
+    "longitude": "120.699366",
+    "latitude": "27.994267"
+  },
+  {
+    "id": "5b7fa15289eb3a1e28c5f529",
+    "code": "330400",
+    "name": "嘉兴市",
+    "parentCode": "330000",
+    "longitude": "120.755486",
+    "latitude": "30.746129"
+  },
+  {
+    "id": "5b7fa15389eb3a1e28c5f532",
+    "code": "330500",
+    "name": "湖州市",
+    "parentCode": "330000",
+    "longitude": "120.086823",
+    "latitude": "30.894348"
+  },
+  {
+    "id": "5b7fa15489eb3a1e28c5f539",
+    "code": "330600",
+    "name": "绍兴市",
+    "parentCode": "330000",
+    "longitude": "120.580232",
+    "latitude": "30.029752"
+  },
+  {
+    "id": "5b7fa35789eb3a1e28c5fa46",
+    "code": "330700",
+    "name": "金华市",
+    "parentCode": "330000",
+    "longitude": "119.647444",
+    "latitude": "29.079059"
+  },
+  {
+    "id": "5b7fa35889eb3a1e28c5fa51",
+    "code": "330800",
+    "name": "衢州市",
+    "parentCode": "330000",
+    "longitude": "118.859457",
+    "latitude": "28.970079"
+  },
+  {
+    "id": "5b7fa35989eb3a1e28c5fa59",
+    "code": "330900",
+    "name": "舟山市",
+    "parentCode": "330000",
+    "longitude": "122.207215",
+    "latitude": "29.985295"
+  },
+  {
+    "id": "5b7fa35989eb3a1e28c5fa5f",
+    "code": "331000",
+    "name": "台州市",
+    "parentCode": "330000",
+    "longitude": "121.420757",
+    "latitude": "28.656386"
+  },
+  {
+    "id": "5b7fa35a89eb3a1e28c5fa6a",
+    "code": "331100",
+    "name": "丽水市",
+    "parentCode": "330000",
+    "longitude": "119.922796",
+    "latitude": "28.467630"
+  },
+  {
+    "id": "5b7fa35c89eb3a1e28c5fa76",
+    "code": "340100",
+    "name": "合肥市",
+    "parentCode": "340000",
+    "longitude": "117.227239",
+    "latitude": "31.820586"
+  },
+  {
+    "id": "5b7fa35d89eb3a1e28c5fa84",
+    "code": "340200",
+    "name": "芜湖市",
+    "parentCode": "340000",
+    "longitude": "118.432941",
+    "latitude": "31.352859"
+  },
+  {
+    "id": "5b7fa35e89eb3a1e28c5fa90",
+    "code": "340300",
+    "name": "蚌埠市",
+    "parentCode": "340000",
+    "longitude": "117.389719",
+    "latitude": "32.916287"
+  },
+  {
+    "id": "5b7fa35f89eb3a1e28c5fa9b",
+    "code": "340400",
+    "name": "淮南市",
+    "parentCode": "340000",
+    "longitude": "116.999932",
+    "latitude": "32.625478"
+  },
+  {
+    "id": "5b7fa36089eb3a1e28c5faa4",
+    "code": "340500",
+    "name": "马鞍山市",
+    "parentCode": "340000",
+    "longitude": "118.506759",
+    "latitude": "31.670452"
+  },
+  {
+    "id": "5b7fa36189eb3a1e28c5faac",
+    "code": "340600",
+    "name": "淮北市",
+    "parentCode": "340000",
+    "longitude": "116.798265",
+    "latitude": "33.955844"
+  },
+  {
+    "id": "5b7fa36289eb3a1e28c5fab2",
+    "code": "340700",
+    "name": "铜陵市",
+    "parentCode": "340000",
+    "longitude": "117.812079",
+    "latitude": "30.945429"
+  },
+  {
+    "id": "5b7fa36289eb3a1e28c5fab8",
+    "code": "340800",
+    "name": "安庆市",
+    "parentCode": "340000",
+    "longitude": "117.063754",
+    "latitude": "30.543494"
+  },
+  {
+    "id": "5b7fa36489eb3a1e28c5fac5",
+    "code": "341000",
+    "name": "黄山市",
+    "parentCode": "340000",
+    "longitude": "118.337481",
+    "latitude": "29.714655"
+  },
+  {
+    "id": "5b7fa36589eb3a1e28c5face",
+    "code": "341100",
+    "name": "滁州市",
+    "parentCode": "340000",
+    "longitude": "118.317106",
+    "latitude": "32.301556"
+  },
+  {
+    "id": "5b7fa36689eb3a1e28c5fada",
+    "code": "341200",
+    "name": "阜阳市",
+    "parentCode": "340000",
+    "longitude": "115.814204",
+    "latitude": "32.890124"
+  },
+  {
+    "id": "5b7fa36789eb3a1e28c5fae6",
+    "code": "341300",
+    "name": "宿州市",
+    "parentCode": "340000",
+    "longitude": "116.964356",
+    "latitude": "33.646373"
+  },
+  {
+    "id": "5b7fa36889eb3a1e28c5faef",
+    "code": "341500",
+    "name": "六安市",
+    "parentCode": "340000",
+    "longitude": "116.521854",
+    "latitude": "31.733699"
+  },
+  {
+    "id": "5b7fa36989eb3a1e28c5faf8",
+    "code": "341600",
+    "name": "亳州市",
+    "parentCode": "340000",
+    "longitude": "115.778676",
+    "latitude": "33.844582"
+  },
+  {
+    "id": "5b7fa36989eb3a1e28c5fafe",
+    "code": "341700",
+    "name": "池州市",
+    "parentCode": "340000",
+    "longitude": "117.491568",
+    "latitude": "30.664800"
+  },
+  {
+    "id": "5b7fa36a89eb3a1e28c5fb04",
+    "code": "341800",
+    "name": "宣城市",
+    "parentCode": "340000",
+    "longitude": "118.758816",
+    "latitude": "30.940718"
+  },
+  {
+    "id": "5b7fa36b89eb3a1e28c5fb0f",
+    "code": "350100",
+    "name": "福州市",
+    "parentCode": "350000",
+    "longitude": "119.296494",
+    "latitude": "26.074507"
+  },
+  {
+    "id": "5b7fa36c89eb3a1e28c5fb1e",
+    "code": "350200",
+    "name": "厦门市",
+    "parentCode": "350000",
+    "longitude": "118.089425",
+    "latitude": "24.479833"
+  },
+  {
+    "id": "5b7fa36d89eb3a1e28c5fb26",
+    "code": "350300",
+    "name": "莆田市",
+    "parentCode": "350000",
+    "longitude": "119.007777",
+    "latitude": "25.454084"
+  },
+  {
+    "id": "5b7fa36e89eb3a1e28c5fb2d",
+    "code": "350400",
+    "name": "三明市",
+    "parentCode": "350000",
+    "longitude": "117.638678",
+    "latitude": "26.263406"
+  },
+  {
+    "id": "5b7fa36f89eb3a1e28c5fb3b",
+    "code": "350500",
+    "name": "泉州市",
+    "parentCode": "350000",
+    "longitude": "118.675675",
+    "latitude": "24.874132"
+  },
+  {
+    "id": "5b7fa37189eb3a1e28c5fb49",
+    "code": "350600",
+    "name": "漳州市",
+    "parentCode": "350000",
+    "longitude": "117.647481",
+    "latitude": "24.512948"
+  },
+  {
+    "id": "5b7fa37289eb3a1e28c5fb56",
+    "code": "350700",
+    "name": "南平市",
+    "parentCode": "350000",
+    "longitude": "118.177708",
+    "latitude": "26.641768"
+  },
+  {
+    "id": "5b7fa37389eb3a1e28c5fb62",
+    "code": "350800",
+    "name": "龙岩市",
+    "parentCode": "350000",
+    "longitude": "117.017536",
+    "latitude": "25.075123"
+  },
+  {
+    "id": "5b7fa37489eb3a1e28c5fb6b",
+    "code": "350900",
+    "name": "宁德市",
+    "parentCode": "350000",
+    "longitude": "119.547932",
+    "latitude": "26.665617"
+  },
+  {
+    "id": "5b7fa37589eb3a1e28c5fb77",
+    "code": "360100",
+    "name": "南昌市",
+    "parentCode": "360000",
+    "longitude": "115.858197",
+    "latitude": "28.682892"
+  },
+  {
+    "id": "5b7fa37689eb3a1e28c5fb82",
+    "code": "360200",
+    "name": "景德镇市",
+    "parentCode": "360000",
+    "longitude": "117.178419",
+    "latitude": "29.268835"
+  },
+  {
+    "id": "5b7fa37789eb3a1e28c5fb88",
+    "code": "360300",
+    "name": "萍乡市",
+    "parentCode": "360000",
+    "longitude": "113.854556",
+    "latitude": "27.622768"
+  },
+  {
+    "id": "5b7fa37889eb3a1e28c5fb8f",
+    "code": "360400",
+    "name": "九江市",
+    "parentCode": "360000",
+    "longitude": "116.001930",
+    "latitude": "29.705077"
+  },
+  {
+    "id": "5b7fa37989eb3a1e28c5fb9e",
+    "code": "360500",
+    "name": "新余市",
+    "parentCode": "360000",
+    "longitude": "114.917346",
+    "latitude": "27.817808"
+  },
+  {
+    "id": "5b7fa37a89eb3a1e28c5fba2",
+    "code": "360600",
+    "name": "鹰潭市",
+    "parentCode": "360000",
+    "longitude": "117.069202",
+    "latitude": "28.260189"
+  },
+  {
+    "id": "5b7fa37a89eb3a1e28c5fba7",
+    "code": "360700",
+    "name": "赣州市",
+    "parentCode": "360000",
+    "longitude": "114.935029",
+    "latitude": "25.831829"
+  },
+  {
+    "id": "5b7fa37c89eb3a1e28c5fbbb",
+    "code": "360800",
+    "name": "吉安市",
+    "parentCode": "360000",
+    "longitude": "114.992509",
+    "latitude": "27.113443"
+  },
+  {
+    "id": "5b7fa37e89eb3a1e28c5fbca",
+    "code": "360900",
+    "name": "宜春市",
+    "parentCode": "360000",
+    "longitude": "114.416778",
+    "latitude": "27.815619"
+  },
+  {
+    "id": "5b7fa37f89eb3a1e28c5fbd6",
+    "code": "361000",
+    "name": "抚州市",
+    "parentCode": "360000",
+    "longitude": "116.358181",
+    "latitude": "27.949217"
+  },
+  {
+    "id": "5b7fa38089eb3a1e28c5fbe3",
+    "code": "361100",
+    "name": "上饶市",
+    "parentCode": "360000",
+    "longitude": "117.943433",
+    "latitude": "28.454863"
+  },
+  {
+    "id": "5b7fa38189eb3a1e28c5fbf2",
+    "code": "370100",
+    "name": "济南市",
+    "parentCode": "370000",
+    "longitude": "117.119999",
+    "latitude": "36.651216"
+  },
+  {
+    "id": "5b7fa38389eb3a1e28c5fbff",
+    "code": "370200",
+    "name": "青岛市",
+    "parentCode": "370000",
+    "longitude": "120.382639",
+    "latitude": "36.067082"
+  },
+  {
+    "id": "5b7fa38489eb3a1e28c5fc0c",
+    "code": "370300",
+    "name": "淄博市",
+    "parentCode": "370000",
+    "longitude": "118.054927",
+    "latitude": "36.813487"
+  },
+  {
+    "id": "5b7fa38589eb3a1e28c5fc16",
+    "code": "370400",
+    "name": "枣庄市",
+    "parentCode": "370000",
+    "longitude": "117.323725",
+    "latitude": "34.810487"
+  },
+  {
+    "id": "5b7fa38689eb3a1e28c5fc1e",
+    "code": "370500",
+    "name": "东营市",
+    "parentCode": "370000",
+    "longitude": "118.674767",
+    "latitude": "37.434751"
+  },
+  {
+    "id": "5b7fa38789eb3a1e28c5fc27",
+    "code": "370600",
+    "name": "烟台市",
+    "parentCode": "370000",
+    "longitude": "121.447935",
+    "latitude": "37.463822"
+  },
+  {
+    "id": "5b7fa38889eb3a1e28c5fc37",
+    "code": "370700",
+    "name": "潍坊市",
+    "parentCode": "370000",
+    "longitude": "119.161755",
+    "latitude": "36.706774"
+  },
+  {
+    "id": "5b7fa38a89eb3a1e28c5fc46",
+    "code": "370800",
+    "name": "济宁市",
+    "parentCode": "370000",
+    "longitude": "116.587098",
+    "latitude": "35.414921"
+  },
+  {
+    "id": "5b7fa38b89eb3a1e28c5fc54",
+    "code": "370900",
+    "name": "泰安市",
+    "parentCode": "370000",
+    "longitude": "117.087614",
+    "latitude": "36.200252"
+  },
+  {
+    "id": "5b7fa38c89eb3a1e28c5fc5c",
+    "code": "371000",
+    "name": "威海市",
+    "parentCode": "370000",
+    "longitude": "122.120419",
+    "latitude": "37.513068"
+  },
+  {
+    "id": "5b7fa38d89eb3a1e28c5fc65",
+    "code": "371100",
+    "name": "日照市",
+    "parentCode": "370000",
+    "longitude": "119.526888",
+    "latitude": "35.416377"
+  },
+  {
+    "id": "5b7fa38e89eb3a1e28c5fc6d",
+    "code": "371200",
+    "name": "莱芜市",
+    "parentCode": "370000",
+    "longitude": "117.676723",
+    "latitude": "36.213813"
+  },
+  {
+    "id": "5b7fa38e89eb3a1e28c5fc71",
+    "code": "371300",
+    "name": "临沂市",
+    "parentCode": "370000",
+    "longitude": "118.356448",
+    "latitude": "35.104672"
+  },
+  {
+    "id": "5b7fa39089eb3a1e28c5fc82",
+    "code": "371400",
+    "name": "德州市",
+    "parentCode": "370000",
+    "longitude": "116.357464",
+    "latitude": "37.434092"
+  },
+  {
+    "id": "5b7fa39189eb3a1e28c5fc91",
+    "code": "371500",
+    "name": "聊城市",
+    "parentCode": "370000",
+    "longitude": "115.985371",
+    "latitude": "36.456703"
+  },
+  {
+    "id": "5b7fa39289eb3a1e28c5fc9b",
+    "code": "371600",
+    "name": "滨州市",
+    "parentCode": "370000",
+    "longitude": "117.970703",
+    "latitude": "37.381990"
+  },
+  {
+    "id": "5b7fa39389eb3a1e28c5fca4",
+    "code": "371700",
+    "name": "菏泽市",
+    "parentCode": "370000",
+    "longitude": "115.480656",
+    "latitude": "35.233750"
+  },
+  {
+    "id": "5b7fa39489eb3a1e28c5fcb2",
+    "code": "410100",
+    "name": "郑州市",
+    "parentCode": "410000",
+    "longitude": "113.625368",
+    "latitude": "34.746599"
+  },
+  {
+    "id": "5b7fa39689eb3a1e28c5fcc3",
+    "code": "410200",
+    "name": "开封市",
+    "parentCode": "410000",
+    "longitude": "114.307581",
+    "latitude": "34.797239"
+  },
+  {
+    "id": "5b7fa39789eb3a1e28c5fcce",
+    "code": "410300",
+    "name": "洛阳市",
+    "parentCode": "410000",
+    "longitude": "112.454040",
+    "latitude": "34.619682"
+  },
+  {
+    "id": "5b7fa39989eb3a1e28c5fce0",
+    "code": "410400",
+    "name": "平顶山市",
+    "parentCode": "410000",
+    "longitude": "113.192661",
+    "latitude": "33.766169"
+  },
+  {
+    "id": "5b7fa39a89eb3a1e28c5fcee",
+    "code": "410500",
+    "name": "安阳市",
+    "parentCode": "410000",
+    "longitude": "114.392392",
+    "latitude": "36.097577"
+  },
+  {
+    "id": "5b7fa39b89eb3a1e28c5fcfa",
+    "code": "410600",
+    "name": "鹤壁市",
+    "parentCode": "410000",
+    "longitude": "114.297272",
+    "latitude": "35.747225"
+  },
+  {
+    "id": "5b7fa39c89eb3a1e28c5fd02",
+    "code": "410700",
+    "name": "新乡市",
+    "parentCode": "410000",
+    "longitude": "113.926800",
+    "latitude": "35.303004"
+  },
+  {
+    "id": "5b7fa39e89eb3a1e28c5fd13",
+    "code": "410800",
+    "name": "焦作市",
+    "parentCode": "410000",
+    "longitude": "113.241823",
+    "latitude": "35.215892"
+  },
+  {
+    "id": "5b7fa39f89eb3a1e28c5fd20",
+    "code": "410900",
+    "name": "濮阳市",
+    "parentCode": "410000",
+    "longitude": "115.029215",
+    "latitude": "35.761829"
+  },
+  {
+    "id": "5b7fa3a089eb3a1e28c5fd2a",
+    "code": "411000",
+    "name": "许昌市",
+    "parentCode": "410000",
+    "longitude": "113.852640",
+    "latitude": "34.035506"
+  },
+  {
+    "id": "5b7fa3a189eb3a1e28c5fd33",
+    "code": "411100",
+    "name": "漯河市",
+    "parentCode": "410000",
+    "longitude": "114.016539",
+    "latitude": "33.581412"
+  },
+  {
+    "id": "5b7fa3a289eb3a1e28c5fd3b",
+    "code": "411200",
+    "name": "三门峡市",
+    "parentCode": "410000",
+    "longitude": "111.200135",
+    "latitude": "34.772493"
+  },
+  {
+    "id": "5b7fa3a389eb3a1e28c5fd44",
+    "code": "411300",
+    "name": "南阳市",
+    "parentCode": "410000",
+    "longitude": "112.528321",
+    "latitude": "32.990833"
+  },
+  {
+    "id": "5b7fa3a589eb3a1e28c5fd55",
+    "code": "411400",
+    "name": "商丘市",
+    "parentCode": "410000",
+    "longitude": "115.656370",
+    "latitude": "34.414172"
+  },
+  {
+    "id": "5b7fa3a689eb3a1e28c5fd62",
+    "code": "411500",
+    "name": "信阳市",
+    "parentCode": "410000",
+    "longitude": "114.091023",
+    "latitude": "32.146983"
+  },
+  {
+    "id": "5b7fa3a789eb3a1e28c5fd6f",
+    "code": "411600",
+    "name": "周口市",
+    "parentCode": "410000",
+    "longitude": "114.696951",
+    "latitude": "33.626149"
+  },
+  {
+    "id": "5b7fa3a889eb3a1e28c5fd7c",
+    "code": "411700",
+    "name": "驻马店市",
+    "parentCode": "410000",
+    "longitude": "114.022298",
+    "latitude": "33.011529"
+  },
+  {
+    "id": "5b7fa3a989eb3a1e28c5fd89",
+    "code": "419000",
+    "name": "省直辖县级行政区划",
+    "parentCode": "410000"
+  },
+  {
+    "id": "5b7fa3aa89eb3a1e28c5fd8c",
+    "code": "420100",
+    "name": "武汉市",
+    "parentCode": "420000",
+    "longitude": "114.305392",
+    "latitude": "30.593098"
+  },
+  {
+    "id": "5b7fa3ab89eb3a1e28c5fd9b",
+    "code": "420200",
+    "name": "黄石市",
+    "parentCode": "420000",
+    "longitude": "115.038520",
+    "latitude": "30.199652"
+  },
+  {
+    "id": "5b7fa3ac89eb3a1e28c5fda3",
+    "code": "420300",
+    "name": "十堰市",
+    "parentCode": "420000",
+    "longitude": "110.797990",
+    "latitude": "32.629397"
+  },
+  {
+    "id": "5b7fa3ad89eb3a1e28c5fdad",
+    "code": "420500",
+    "name": "宜昌市",
+    "parentCode": "420000",
+    "longitude": "111.286471",
+    "latitude": "30.691967"
+  },
+  {
+    "id": "5b7fa3af89eb3a1e28c5fdbc",
+    "code": "420600",
+    "name": "襄阳市",
+    "parentCode": "420000",
+    "longitude": "112.122414",
+    "latitude": "32.008986"
+  },
+  {
+    "id": "5b7fa3b089eb3a1e28c5fdc7",
+    "code": "420700",
+    "name": "鄂州市",
+    "parentCode": "420000",
+    "longitude": "114.894843",
+    "latitude": "30.391940"
+  },
+  {
+    "id": "5b7fa3b089eb3a1e28c5fdcc",
+    "code": "420800",
+    "name": "荆门市",
+    "parentCode": "420000",
+    "longitude": "112.199265",
+    "latitude": "31.035423"
+  },
+  {
+    "id": "5b7fa3b189eb3a1e28c5fdd3",
+    "code": "420900",
+    "name": "孝感市",
+    "parentCode": "420000",
+    "longitude": "113.916902",
+    "latitude": "30.924568"
+  },
+  {
+    "id": "5b7fa3b289eb3a1e28c5fddc",
+    "code": "421000",
+    "name": "荆州市",
+    "parentCode": "420000",
+    "longitude": "112.239741",
+    "latitude": "30.335165"
+  },
+  {
+    "id": "5b7fa3b389eb3a1e28c5fde7",
+    "code": "421100",
+    "name": "黄冈市",
+    "parentCode": "420000",
+    "longitude": "114.872316",
+    "latitude": "30.453905"
+  },
+  {
+    "id": "5b7fa3b489eb3a1e28c5fdf4",
+    "code": "421200",
+    "name": "咸宁市",
+    "parentCode": "420000",
+    "longitude": "114.322492",
+    "latitude": "29.841443"
+  },
+  {
+    "id": "5b7fa3b589eb3a1e28c5fdfc",
+    "code": "421300",
+    "name": "随州市",
+    "parentCode": "420000",
+    "longitude": "113.382458",
+    "latitude": "31.690215"
+  },
+  {
+    "id": "5b7fa3b689eb3a1e28c5fe01",
+    "code": "422800",
+    "name": "恩施土家族苗族自治州",
+    "parentCode": "420000",
+    "longitude": "109.488172",
+    "latitude": "30.272156"
+  },
+  {
+    "id": "5b7fa3b789eb3a1e28c5fe0a",
+    "code": "429000",
+    "name": "省直辖县级行政区划",
+    "parentCode": "420000"
+  },
+  {
+    "id": "5b7fa3b789eb3a1e28c5fe10",
+    "code": "430100",
+    "name": "长沙市",
+    "parentCode": "430000",
+    "longitude": "112.938814",
+    "latitude": "28.228209"
+  },
+  {
+    "id": "5b7fa3b889eb3a1e28c5fe1b",
+    "code": "430200",
+    "name": "株洲市",
+    "parentCode": "430000",
+    "longitude": "113.134002",
+    "latitude": "27.827550"
+  },
+  {
+    "id": "5b7fa3ba89eb3a1e28c5fe27",
+    "code": "430300",
+    "name": "湘潭市",
+    "parentCode": "430000",
+    "longitude": "112.944049",
+    "latitude": "27.829738"
+  },
+  {
+    "id": "5b7fa3ba89eb3a1e28c5fe31",
+    "code": "430400",
+    "name": "衡阳市",
+    "parentCode": "430000",
+    "longitude": "112.571997",
+    "latitude": "26.893230"
+  },
+  {
+    "id": "5b7fa3bc89eb3a1e28c5fe42",
+    "code": "430500",
+    "name": "邵阳市",
+    "parentCode": "430000",
+    "longitude": "111.467791",
+    "latitude": "27.238892"
+  },
+  {
+    "id": "5b7fa3be89eb3a1e28c5fe50",
+    "code": "430600",
+    "name": "岳阳市",
+    "parentCode": "430000",
+    "longitude": "113.128958",
+    "latitude": "29.357104"
+  },
+  {
+    "id": "5b7fa3bf89eb3a1e28c5fe5c",
+    "code": "430700",
+    "name": "常德市",
+    "parentCode": "430000",
+    "longitude": "111.698497",
+    "latitude": "29.031673"
+  },
+  {
+    "id": "5b7fa3c089eb3a1e28c5fe68",
+    "code": "430800",
+    "name": "张家界市",
+    "parentCode": "430000",
+    "longitude": "110.479191",
+    "latitude": "29.117096"
+  },
+  {
+    "id": "5b7fa3c189eb3a1e28c5fe6e",
+    "code": "430900",
+    "name": "益阳市",
+    "parentCode": "430000",
+    "longitude": "112.355180",
+    "latitude": "28.553860"
+  },
+  {
+    "id": "5b7fa3c289eb3a1e28c5fe78",
+    "code": "431000",
+    "name": "郴州市",
+    "parentCode": "430000",
+    "longitude": "113.014717",
+    "latitude": "25.770509"
+  },
+  {
+    "id": "5b7fa3c389eb3a1e28c5fe85",
+    "code": "431100",
+    "name": "永州市",
+    "parentCode": "430000",
+    "longitude": "111.613445",
+    "latitude": "26.420394"
+  },
+  {
+    "id": "5b7fa3c589eb3a1e28c5fe95",
+    "code": "431200",
+    "name": "怀化市",
+    "parentCode": "430000",
+    "longitude": "109.998488",
+    "latitude": "27.554978"
+  },
+  {
+    "id": "5b7fa3c689eb3a1e28c5fea4",
+    "code": "431300",
+    "name": "娄底市",
+    "parentCode": "430000",
+    "longitude": "111.993497",
+    "latitude": "27.700062"
+  },
+  {
+    "id": "5b7fa3c789eb3a1e28c5feab",
+    "code": "433100",
+    "name": "湘西土家族苗族自治州",
+    "parentCode": "430000",
+    "longitude": "109.739172",
+    "latitude": "28.311947"
+  },
+  {
+    "id": "5b7fa3c889eb3a1e28c5feb7",
+    "code": "440100",
+    "name": "广州市",
+    "parentCode": "440000",
+    "longitude": "113.264434",
+    "latitude": "23.129162"
+  },
+  {
+    "id": "5b7fa3c989eb3a1e28c5fec4",
+    "code": "440200",
+    "name": "韶关市",
+    "parentCode": "440000",
+    "longitude": "113.597522",
+    "latitude": "24.810403"
+  },
+  {
+    "id": "5b7fa3ca89eb3a1e28c5fed0",
+    "code": "440300",
+    "name": "深圳市",
+    "parentCode": "440000",
+    "longitude": "114.057868",
+    "latitude": "22.543099"
+  },
+  {
+    "id": "5b7fa3cb89eb3a1e28c5feda",
+    "code": "440400",
+    "name": "珠海市",
+    "parentCode": "440000",
+    "longitude": "113.576726",
+    "latitude": "22.270715"
+  },
+  {
+    "id": "5b7fa3cc89eb3a1e28c5fedf",
+    "code": "440500",
+    "name": "汕头市",
+    "parentCode": "440000",
+    "longitude": "116.681972",
+    "latitude": "23.354091"
+  },
+  {
+    "id": "5b7fa3cd89eb3a1e28c5fee8",
+    "code": "440600",
+    "name": "佛山市",
+    "parentCode": "440000",
+    "longitude": "113.121416",
+    "latitude": "23.021548"
+  },
+  {
+    "id": "5b7fa3ce89eb3a1e28c5feef",
+    "code": "440700",
+    "name": "江门市",
+    "parentCode": "440000",
+    "longitude": "113.081901",
+    "latitude": "22.578738"
+  },
+  {
+    "id": "5b7fa3cf89eb3a1e28c5fef8",
+    "code": "440800",
+    "name": "湛江市",
+    "parentCode": "440000",
+    "longitude": "110.359377",
+    "latitude": "21.270707"
+  },
+  {
+    "id": "5b7fa3d089eb3a1e28c5ff0a",
+    "code": "441200",
+    "name": "肇庆市",
+    "parentCode": "440000",
+    "longitude": "112.465091",
+    "latitude": "23.047191"
+  },
+  {
+    "id": "5b7fa3d089eb3a1e28c5ff03",
+    "code": "440900",
+    "name": "茂名市",
+    "parentCode": "440000",
+    "longitude": "110.925456",
+    "latitude": "21.662999"
+  },
+  {
+    "id": "5b7fa3d189eb3a1e28c5ff14",
+    "code": "441300",
+    "name": "惠州市",
+    "parentCode": "440000",
+    "longitude": "114.416196",
+    "latitude": "23.111847"
+  },
+  {
+    "id": "5b7fa3d289eb3a1e28c5ff1b",
+    "code": "441400",
+    "name": "梅州市",
+    "parentCode": "440000",
+    "longitude": "116.122238",
+    "latitude": "24.288615"
+  },
+  {
+    "id": "5b7fa3d389eb3a1e28c5ff25",
+    "code": "441500",
+    "name": "汕尾市",
+    "parentCode": "440000",
+    "longitude": "115.375278",
+    "latitude": "22.786211"
+  },
+  {
+    "id": "5b7fa3d489eb3a1e28c5ff2b",
+    "code": "441600",
+    "name": "河源市",
+    "parentCode": "440000",
+    "longitude": "114.700447",
+    "latitude": "23.743538"
+  },
+  {
+    "id": "5b7fa3d589eb3a1e28c5ff33",
+    "code": "441700",
+    "name": "阳江市",
+    "parentCode": "440000",
+    "longitude": "111.982232",
+    "latitude": "21.857958"
+  },
+  {
+    "id": "5b7fa3d589eb3a1e28c5ff39",
+    "code": "441800",
+    "name": "清远市",
+    "parentCode": "440000",
+    "longitude": "113.056031",
+    "latitude": "23.681763"
+  },
+  {
+    "id": "5b7fa3d689eb3a1e28c5ff43",
+    "code": "441900",
+    "name": "东莞市",
+    "parentCode": "440000",
+    "longitude": "113.751765",
+    "latitude": "23.020536"
+  },
+  {
+    "id": "5b7fa3d689eb3a1e28c5ff44",
+    "code": "442000",
+    "name": "中山市",
+    "parentCode": "440000",
+    "longitude": "113.392782",
+    "latitude": "22.517645"
+  },
+  {
+    "id": "5b7fa3d789eb3a1e28c5ff45",
+    "code": "445100",
+    "name": "潮州市",
+    "parentCode": "440000",
+    "longitude": "116.622603",
+    "latitude": "23.656950"
+  },
+  {
+    "id": "5b7fa3d789eb3a1e28c5ff4a",
+    "code": "445200",
+    "name": "揭阳市",
+    "parentCode": "440000",
+    "longitude": "116.372831",
+    "latitude": "23.549993"
+  },
+  {
+    "id": "5b7fa3d989eb3a1e28c5ff59",
+    "code": "450100",
+    "name": "南宁市",
+    "parentCode": "450000",
+    "longitude": "108.366543",
+    "latitude": "22.817002"
+  },
+  {
+    "id": "5b7fa3d889eb3a1e28c5ff51",
+    "code": "445300",
+    "name": "云浮市",
+    "parentCode": "440000",
+    "longitude": "112.044491",
+    "latitude": "22.915094"
+  },
+  {
+    "id": "5b7fa3da89eb3a1e28c5ff67",
+    "code": "450200",
+    "name": "柳州市",
+    "parentCode": "450000",
+    "longitude": "109.415953",
+    "latitude": "24.325502"
+  },
+  {
+    "id": "5b7fa3db89eb3a1e28c5ff73",
+    "code": "450300",
+    "name": "桂林市",
+    "parentCode": "450000",
+    "longitude": "110.290194",
+    "latitude": "25.273566"
+  },
+  {
+    "id": "5b7fa3dd89eb3a1e28c5ff86",
+    "code": "450400",
+    "name": "梧州市",
+    "parentCode": "450000",
+    "longitude": "111.279115",
+    "latitude": "23.476962"
+  },
+  {
+    "id": "5b7fa3de89eb3a1e28c5ff8f",
+    "code": "450500",
+    "name": "北海市",
+    "parentCode": "450000",
+    "longitude": "109.119927",
+    "latitude": "21.481254"
+  },
+  {
+    "id": "5b7fa3df89eb3a1e28c5ff95",
+    "code": "450600",
+    "name": "防城港市",
+    "parentCode": "450000",
+    "longitude": "108.353846",
+    "latitude": "21.686860"
+  },
+  {
+    "id": "5b7fa3df89eb3a1e28c5ff9b",
+    "code": "450700",
+    "name": "钦州市",
+    "parentCode": "450000",
+    "longitude": "108.654146",
+    "latitude": "21.979933"
+  },
+  {
+    "id": "5b7fa3e089eb3a1e28c5ffa1",
+    "code": "450800",
+    "name": "贵港市",
+    "parentCode": "450000",
+    "longitude": "109.598926",
+    "latitude": "23.111530"
+  },
+  {
+    "id": "5b7fa3e189eb3a1e28c5ffa8",
+    "code": "450900",
+    "name": "玉林市",
+    "parentCode": "450000",
+    "longitude": "110.164756",
+    "latitude": "22.636379"
+  },
+  {
+    "id": "5b7fa3e189eb3a1e28c5ffb1",
+    "code": "451000",
+    "name": "百色市",
+    "parentCode": "450000",
+    "longitude": "106.618201",
+    "latitude": "23.902333"
+  },
+  {
+    "id": "5b7fa3e389eb3a1e28c5ffbf",
+    "code": "451100",
+    "name": "贺州市",
+    "parentCode": "450000",
+    "longitude": "111.566694",
+    "latitude": "24.403582"
+  },
+  {
+    "id": "5b7fa3e489eb3a1e28c5ffc6",
+    "code": "451200",
+    "name": "河池市",
+    "parentCode": "450000",
+    "longitude": "108.085261",
+    "latitude": "24.692931"
+  },
+  {
+    "id": "5b7fa3e589eb3a1e28c5ffd3",
+    "code": "451300",
+    "name": "来宾市",
+    "parentCode": "450000",
+    "longitude": "109.221465",
+    "latitude": "23.750306"
+  },
+  {
+    "id": "5b7fa3e689eb3a1e28c5ffdb",
+    "code": "451400",
+    "name": "崇左市",
+    "parentCode": "450000",
+    "longitude": "107.364711",
+    "latitude": "22.376532"
+  },
+  {
+    "id": "5b7fa3e789eb3a1e28c5ffe5",
+    "code": "460100",
+    "name": "海口市",
+    "parentCode": "460000",
+    "longitude": "110.198293",
+    "latitude": "20.044001"
+  },
+  {
+    "id": "5b7fa3e789eb3a1e28c5ffeb",
+    "code": "460200",
+    "name": "三亚市",
+    "parentCode": "460000",
+    "longitude": "109.511909",
+    "latitude": "18.252847"
+  },
+  {
+    "id": "5b7fa3e889eb3a1e28c5fff1",
+    "code": "460300",
+    "name": "三沙市",
+    "parentCode": "460000",
+    "longitude": "112.338695",
+    "latitude": "16.831839"
+  },
+  {
+    "id": "5b7fa3e989eb3a1e28c5fff6",
+    "code": "469000",
+    "name": "省直辖县级行政区划",
+    "parentCode": "460000"
+  },
+  {
+    "id": "5b7fa3e989eb3a1e28c5fff5",
+    "code": "460400",
+    "name": "儋州市",
+    "parentCode": "460000",
+    "longitude": "109.580811",
+    "latitude": "19.521134"
+  },
+  {
+    "id": "5b7fa3ed89eb3a1e28c60022",
+    "code": "500200",
+    "name": "县",
+    "parentCode": "500000"
+  },
+  {
+    "id": "5b7fa3ee89eb3a1e28c60030",
+    "code": "510100",
+    "name": "成都市",
+    "parentCode": "510000",
+    "longitude": "104.066541",
+    "latitude": "30.572269"
+  },
+  {
+    "id": "5b7fa3f089eb3a1e28c60046",
+    "code": "510300",
+    "name": "自贡市",
+    "parentCode": "510000",
+    "longitude": "104.778442",
+    "latitude": "29.339030"
+  },
+  {
+    "id": "5b7fa3f189eb3a1e28c6004e",
+    "code": "510400",
+    "name": "攀枝花市",
+    "parentCode": "510000",
+    "longitude": "101.718637",
+    "latitude": "26.582347"
+  },
+  {
+    "id": "5b7fa3f289eb3a1e28c60055",
+    "code": "510500",
+    "name": "泸州市",
+    "parentCode": "510000",
+    "longitude": "105.442258",
+    "latitude": "28.871811"
+  },
+  {
+    "id": "5b7fa3f389eb3a1e28c6005e",
+    "code": "510600",
+    "name": "德阳市",
+    "parentCode": "510000",
+    "longitude": "104.397894",
+    "latitude": "31.126855"
+  },
+  {
+    "id": "5b7fa3f489eb3a1e28c60066",
+    "code": "510700",
+    "name": "绵阳市",
+    "parentCode": "510000",
+    "longitude": "104.679114",
+    "latitude": "31.467450"
+  },
+  {
+    "id": "5b7fa3f589eb3a1e28c60071",
+    "code": "510800",
+    "name": "广元市",
+    "parentCode": "510000",
+    "longitude": "105.843357",
+    "latitude": "32.435435"
+  },
+  {
+    "id": "5b7fa3f689eb3a1e28c6007a",
+    "code": "510900",
+    "name": "遂宁市",
+    "parentCode": "510000",
+    "longitude": "105.592898",
+    "latitude": "30.532847"
+  },
+  {
+    "id": "5b7fa3f689eb3a1e28c60081",
+    "code": "511000",
+    "name": "内江市",
+    "parentCode": "510000",
+    "longitude": "105.058433",
+    "latitude": "29.580228"
+  },
+  {
+    "id": "5b7fa3f789eb3a1e28c60089",
+    "code": "511100",
+    "name": "乐山市",
+    "parentCode": "510000",
+    "longitude": "103.765568",
+    "latitude": "29.552106"
+  },
+  {
+    "id": "5b7fa3f889eb3a1e28c60096",
+    "code": "511300",
+    "name": "南充市",
+    "parentCode": "510000",
+    "longitude": "106.110698",
+    "latitude": "30.837793"
+  },
+  {
+    "id": "5b7fa3fa89eb3a1e28c600a1",
+    "code": "511400",
+    "name": "眉山市",
+    "parentCode": "510000",
+    "longitude": "103.848538",
+    "latitude": "30.075439"
+  },
+  {
+    "id": "5b7fa3fa89eb3a1e28c600a9",
+    "code": "511500",
+    "name": "宜宾市",
+    "parentCode": "510000",
+    "longitude": "104.643215",
+    "latitude": "28.751768"
+  },
+  {
+    "id": "5b7fa3fc89eb3a1e28c600b5",
+    "code": "511600",
+    "name": "广安市",
+    "parentCode": "510000",
+    "longitude": "106.633212",
+    "latitude": "30.455961"
+  },
+  {
+    "id": "5b7fa3fc89eb3a1e28c600bd",
+    "code": "511700",
+    "name": "达州市",
+    "parentCode": "510000",
+    "longitude": "107.468023",
+    "latitude": "31.209571"
+  },
+  {
+    "id": "5b7fa3fd89eb3a1e28c600c7",
+    "code": "511800",
+    "name": "雅安市",
+    "parentCode": "510000",
+    "longitude": "103.013261",
+    "latitude": "29.980537"
+  },
+  {
+    "id": "5b7fa3fe89eb3a1e28c600d1",
+    "code": "511900",
+    "name": "巴中市",
+    "parentCode": "510000",
+    "longitude": "106.747477",
+    "latitude": "31.867903"
+  },
+  {
+    "id": "5b7fa3ff89eb3a1e28c600d9",
+    "code": "512000",
+    "name": "资阳市",
+    "parentCode": "510000",
+    "longitude": "104.627636",
+    "latitude": "30.128901"
+  },
+  {
+    "id": "5b7fa40089eb3a1e28c600de",
+    "code": "513200",
+    "name": "阿坝藏族羌族自治州",
+    "parentCode": "510000",
+    "longitude": "102.224653",
+    "latitude": "31.899413"
+  },
+  {
+    "id": "5b7fa40189eb3a1e28c600ec",
+    "code": "513300",
+    "name": "甘孜藏族自治州",
+    "parentCode": "510000",
+    "longitude": "101.962310",
+    "latitude": "30.049520"
+  },
+  {
+    "id": "5b7fa40389eb3a1e28c600ff",
+    "code": "513400",
+    "name": "凉山彝族自治州",
+    "parentCode": "510000",
+    "longitude": "102.267335",
+    "latitude": "27.881610"
+  },
+  {
+    "id": "5b7fa40589eb3a1e28c60112",
+    "code": "520100",
+    "name": "贵阳市",
+    "parentCode": "520000",
+    "longitude": "106.630153",
+    "latitude": "26.647661"
+  },
+  {
+    "id": "5b7fa40689eb3a1e28c6011e",
+    "code": "520200",
+    "name": "六盘水市",
+    "parentCode": "520000",
+    "longitude": "104.830359",
+    "latitude": "26.592666"
+  },
+  {
+    "id": "5b7fa40789eb3a1e28c60123",
+    "code": "520300",
+    "name": "遵义市",
+    "parentCode": "520000",
+    "longitude": "106.927389",
+    "latitude": "27.725654"
+  },
+  {
+    "id": "5b7fa40889eb3a1e28c60133",
+    "code": "520400",
+    "name": "安顺市",
+    "parentCode": "520000",
+    "longitude": "105.947593",
+    "latitude": "26.253072"
+  },
+  {
+    "id": "5b7fa40989eb3a1e28c6013b",
+    "code": "520500",
+    "name": "毕节市",
+    "parentCode": "520000",
+    "longitude": "105.283992",
+    "latitude": "27.302589"
+  },
+  {
+    "id": "5b7fa40a89eb3a1e28c60145",
+    "code": "520600",
+    "name": "铜仁市",
+    "parentCode": "520000",
+    "longitude": "109.189598",
+    "latitude": "27.731514"
+  },
+  {
+    "id": "5b7fa40b89eb3a1e28c60151",
+    "code": "522300",
+    "name": "黔西南布依族苗族自治州",
+    "parentCode": "520000",
+    "longitude": "104.906396",
+    "latitude": "25.087825"
+  },
+  {
+    "id": "5b7fa40c89eb3a1e28c6015a",
+    "code": "522600",
+    "name": "黔东南苗族侗族自治州",
+    "parentCode": "520000",
+    "longitude": "107.982859",
+    "latitude": "26.583442"
+  },
+  {
+    "id": "5b7fa40e89eb3a1e28c6016b",
+    "code": "522700",
+    "name": "黔南布依族苗族自治州",
+    "parentCode": "520000",
+    "longitude": "107.522097",
+    "latitude": "26.254092"
+  },
+  {
+    "id": "5b7fa41089eb3a1e28c60179",
+    "code": "530100",
+    "name": "昆明市",
+    "parentCode": "530000",
+    "longitude": "102.832891",
+    "latitude": "24.880095"
+  },
+  {
+    "id": "5b7fa41189eb3a1e28c60189",
+    "code": "530300",
+    "name": "曲靖市",
+    "parentCode": "530000",
+    "longitude": "103.796167",
+    "latitude": "25.489999"
+  },
+  {
+    "id": "5b7fa41289eb3a1e28c60194",
+    "code": "530400",
+    "name": "玉溪市",
+    "parentCode": "530000",
+    "longitude": "102.546543",
+    "latitude": "24.352036"
+  },
+  {
+    "id": "5b7fa41389eb3a1e28c6019f",
+    "code": "530500",
+    "name": "保山市",
+    "parentCode": "530000",
+    "longitude": "99.161761",
+    "latitude": "25.112046"
+  },
+  {
+    "id": "5b7fa41489eb3a1e28c601a6",
+    "code": "530600",
+    "name": "昭通市",
+    "parentCode": "530000",
+    "longitude": "103.717465",
+    "latitude": "27.338257"
+  },
+  {
+    "id": "5b7fa41589eb3a1e28c601b3",
+    "code": "530700",
+    "name": "丽江市",
+    "parentCode": "530000",
+    "longitude": "100.227750",
+    "latitude": "26.855047"
+  },
+  {
+    "id": "5b7fa41689eb3a1e28c601ba",
+    "code": "530800",
+    "name": "普洱市",
+    "parentCode": "530000",
+    "longitude": "100.966512",
+    "latitude": "22.825065"
+  },
+  {
+    "id": "5b7fa41789eb3a1e28c601c6",
+    "code": "530900",
+    "name": "临沧市",
+    "parentCode": "530000",
+    "longitude": "100.079583",
+    "latitude": "23.877573"
+  },
+  {
+    "id": "5b7fa41889eb3a1e28c601d0",
+    "code": "532300",
+    "name": "楚雄彝族自治州",
+    "parentCode": "530000",
+    "longitude": "101.528068",
+    "latitude": "25.045532"
+  },
+  {
+    "id": "5b7fa41989eb3a1e28c601db",
+    "code": "532500",
+    "name": "红河哈尼族彝族自治州",
+    "parentCode": "530000",
+    "longitude": "103.374799",
+    "latitude": "23.363130"
+  },
+  {
+    "id": "5b7fa41a89eb3a1e28c601e9",
+    "code": "532600",
+    "name": "文山壮族苗族自治州",
+    "parentCode": "530000",
+    "longitude": "104.216248",
+    "latitude": "23.400733"
+  },
+  {
+    "id": "5b7fa41b89eb3a1e28c601f2",
+    "code": "532800",
+    "name": "西双版纳傣族自治州",
+    "parentCode": "530000",
+    "longitude": "100.797777",
+    "latitude": "22.007351"
+  },
+  {
+    "id": "5b7fa41c89eb3a1e28c601f6",
+    "code": "532900",
+    "name": "大理白族自治州",
+    "parentCode": "530000",
+    "longitude": "100.267638",
+    "latitude": "25.606486"
+  },
+  {
+    "id": "5b7fa41d89eb3a1e28c60203",
+    "code": "533100",
+    "name": "德宏傣族景颇族自治州",
+    "parentCode": "530000",
+    "longitude": "98.584895",
+    "latitude": "24.433353"
+  },
+  {
+    "id": "5b7fa41e89eb3a1e28c60209",
+    "code": "533300",
+    "name": "怒江傈僳族自治州",
+    "parentCode": "530000",
+    "longitude": "98.853097",
+    "latitude": "25.852547"
+  },
+  {
+    "id": "5b7fa41e89eb3a1e28c6020e",
+    "code": "533400",
+    "name": "迪庆藏族自治州",
+    "parentCode": "530000",
+    "longitude": "99.702234",
+    "latitude": "27.818882"
+  },
+  {
+    "id": "5b7fa41f89eb3a1e28c60213",
+    "code": "540100",
+    "name": "拉萨市",
+    "parentCode": "540000",
+    "longitude": "91.140856",
+    "latitude": "29.645554"
+  },
+  {
+    "id": "5b7fa42089eb3a1e28c60221",
+    "code": "540200",
+    "name": "日喀则市",
+    "parentCode": "540000",
+    "longitude": "88.880583",
+    "latitude": "29.266869"
+  },
+  {
+    "id": "5b7fa42289eb3a1e28c60234",
+    "code": "540300",
+    "name": "昌都市",
+    "parentCode": "540000",
+    "longitude": "97.172020",
+    "latitude": "31.140969"
+  },
+  {
+    "id": "5b7fa42389eb3a1e28c60240",
+    "code": "540400",
+    "name": "林芝市",
+    "parentCode": "540000",
+    "longitude": "94.361558",
+    "latitude": "29.648943"
+  },
+  {
+    "id": "5b7fa42489eb3a1e28c60248",
+    "code": "540500",
+    "name": "山南市",
+    "parentCode": "540000",
+    "longitude": "91.773134",
+    "latitude": "29.237137"
+  },
+  {
+    "id": "5b7fa42589eb3a1e28c60256",
+    "code": "542400",
+    "name": "那曲地区",
+    "parentCode": "540000",
+    "longitude": "92.051239",
+    "latitude": "31.476202"
+  },
+  {
+    "id": "5b7fa42789eb3a1e28c60262",
+    "code": "542500",
+    "name": "阿里地区",
+    "parentCode": "540000",
+    "longitude": "80.105804",
+    "latitude": "32.501111"
+  },
+  {
+    "id": "5b7fa42889eb3a1e28c6026b",
+    "code": "610100",
+    "name": "西安市",
+    "parentCode": "610000",
+    "longitude": "108.940174",
+    "latitude": "34.341568"
+  },
+  {
+    "id": "5b7fa42989eb3a1e28c6027a",
+    "code": "610200",
+    "name": "铜川市",
+    "parentCode": "610000",
+    "longitude": "108.945233",
+    "latitude": "34.896756"
+  },
+  {
+    "id": "5b7fa42a89eb3a1e28c60280",
+    "code": "610300",
+    "name": "宝鸡市",
+    "parentCode": "610000",
+    "longitude": "107.237974",
+    "latitude": "34.361979"
+  },
+  {
+    "id": "5b7fa42b89eb3a1e28c6028e",
+    "code": "610400",
+    "name": "咸阳市",
+    "parentCode": "610000",
+    "longitude": "108.708991",
+    "latitude": "34.329605"
+  },
+  {
+    "id": "5b7fa42d89eb3a1e28c6029e",
+    "code": "610500",
+    "name": "渭南市",
+    "parentCode": "610000",
+    "longitude": "109.509786",
+    "latitude": "34.499995"
+  },
+  {
+    "id": "5b7fa42e89eb3a1e28c602ab",
+    "code": "610600",
+    "name": "延安市",
+    "parentCode": "610000",
+    "longitude": "109.489727",
+    "latitude": "36.585455"
+  },
+  {
+    "id": "5b7fa42f89eb3a1e28c602ba",
+    "code": "610700",
+    "name": "汉中市",
+    "parentCode": "610000",
+    "longitude": "107.023323",
+    "latitude": "33.067480"
+  },
+  {
+    "id": "5b7fa43189eb3a1e28c602c7",
+    "code": "610800",
+    "name": "榆林市",
+    "parentCode": "610000",
+    "longitude": "109.734589",
+    "latitude": "38.285390"
+  },
+  {
+    "id": "5b7fa43289eb3a1e28c602d5",
+    "code": "610900",
+    "name": "安康市",
+    "parentCode": "610000",
+    "longitude": "109.029022",
+    "latitude": "32.684714"
+  },
+  {
+    "id": "5b7fa43389eb3a1e28c602e1",
+    "code": "611000",
+    "name": "商洛市",
+    "parentCode": "610000",
+    "longitude": "109.940477",
+    "latitude": "33.870422"
+  },
+  {
+    "id": "5b7fa43489eb3a1e28c602eb",
+    "code": "620100",
+    "name": "兰州市",
+    "parentCode": "620000",
+    "longitude": "103.834303",
+    "latitude": "36.061089"
+  },
+  {
+    "id": "5b7fa43589eb3a1e28c602f6",
+    "code": "620200",
+    "name": "嘉峪关市",
+    "parentCode": "620000",
+    "longitude": "98.289152",
+    "latitude": "39.773130"
+  },
+  {
+    "id": "5b7fa43689eb3a1e28c602f8",
+    "code": "620300",
+    "name": "金昌市",
+    "parentCode": "620000",
+    "longitude": "102.188043",
+    "latitude": "38.520089"
+  },
+  {
+    "id": "5b7fa43689eb3a1e28c602fc",
+    "code": "620400",
+    "name": "白银市",
+    "parentCode": "620000",
+    "longitude": "104.138559",
+    "latitude": "36.544756"
+  },
+  {
+    "id": "5b7fa43789eb3a1e28c60303",
+    "code": "620500",
+    "name": "天水市",
+    "parentCode": "620000",
+    "longitude": "105.724947",
+    "latitude": "34.580863"
+  },
+  {
+    "id": "5b7fa43889eb3a1e28c6030c",
+    "code": "620600",
+    "name": "武威市",
+    "parentCode": "620000",
+    "longitude": "102.638011",
+    "latitude": "37.928264"
+  },
+  {
+    "id": "5b7fa43989eb3a1e28c6031a",
+    "code": "620800",
+    "name": "平凉市",
+    "parentCode": "620000",
+    "longitude": "106.665240",
+    "latitude": "35.543051"
+  },
+  {
+    "id": "5b7fa43889eb3a1e28c60312",
+    "code": "620700",
+    "name": "张掖市",
+    "parentCode": "620000",
+    "longitude": "100.449818",
+    "latitude": "38.925875"
+  },
+  {
+    "id": "5b7fa43a89eb3a1e28c60324",
+    "code": "620900",
+    "name": "酒泉市",
+    "parentCode": "620000",
+    "longitude": "98.494483",
+    "latitude": "39.732410"
+  },
+  {
+    "id": "5b7fa43b89eb3a1e28c6032d",
+    "code": "621000",
+    "name": "庆阳市",
+    "parentCode": "620000",
+    "longitude": "107.643631",
+    "latitude": "35.709077"
+  },
+  {
+    "id": "5b7fa43c89eb3a1e28c60337",
+    "code": "621100",
+    "name": "定西市",
+    "parentCode": "620000",
+    "longitude": "104.626282",
+    "latitude": "35.580662"
+  },
+  {
+    "id": "5b7fa43d89eb3a1e28c60340",
+    "code": "621200",
+    "name": "陇南市",
+    "parentCode": "620000",
+    "longitude": "104.921841",
+    "latitude": "33.400684"
+  },
+  {
+    "id": "5b7fa43e89eb3a1e28c6034b",
+    "code": "622900",
+    "name": "临夏回族自治州",
+    "parentCode": "620000",
+    "longitude": "103.210538",
+    "latitude": "35.601182"
+  },
+  {
+    "id": "5b7fa43f89eb3a1e28c60354",
+    "code": "623000",
+    "name": "甘南藏族自治州",
+    "parentCode": "620000",
+    "longitude": "102.911027",
+    "latitude": "34.983385"
+  },
+  {
+    "id": "5b7fa44089eb3a1e28c6035e",
+    "code": "630100",
+    "name": "西宁市",
+    "parentCode": "630000",
+    "longitude": "101.778228",
+    "latitude": "36.617144"
+  },
+  {
+    "id": "5b7fa44189eb3a1e28c60367",
+    "code": "630200",
+    "name": "海东市",
+    "parentCode": "630000",
+    "longitude": "102.104287",
+    "latitude": "36.502039"
+  },
+  {
+    "id": "5b7fa44289eb3a1e28c6036e",
+    "code": "632200",
+    "name": "海北藏族自治州",
+    "parentCode": "630000",
+    "longitude": "100.900997",
+    "latitude": "36.954413"
+  },
+  {
+    "id": "5b7fa44289eb3a1e28c60373",
+    "code": "632300",
+    "name": "黄南藏族自治州",
+    "parentCode": "630000",
+    "longitude": "102.015248",
+    "latitude": "35.519548"
+  },
+  {
+    "id": "5b7fa44389eb3a1e28c60378",
+    "code": "632500",
+    "name": "海南藏族自治州",
+    "parentCode": "630000",
+    "longitude": "100.620373",
+    "latitude": "36.286437"
+  },
+  {
+    "id": "5b7fa44389eb3a1e28c6037e",
+    "code": "632600",
+    "name": "果洛藏族自治州",
+    "parentCode": "630000",
+    "longitude": "100.244808",
+    "latitude": "34.471431"
+  },
+  {
+    "id": "5b7fa44489eb3a1e28c60385",
+    "code": "632700",
+    "name": "玉树藏族自治州",
+    "parentCode": "630000",
+    "longitude": "97.091934",
+    "latitude": "33.011674"
+  },
+  {
+    "id": "5b7fa44589eb3a1e28c6038c",
+    "code": "632800",
+    "name": "海西蒙古族藏族自治州",
+    "parentCode": "630000",
+    "longitude": "97.369751",
+    "latitude": "37.377139"
+  },
+  {
+    "id": "5b7fa44689eb3a1e28c60396",
+    "code": "640100",
+    "name": "银川市",
+    "parentCode": "640000",
+    "longitude": "106.230909",
+    "latitude": "38.487193"
+  },
+  {
+    "id": "5b7fa44689eb3a1e28c6039e",
+    "code": "640200",
+    "name": "石嘴山市",
+    "parentCode": "640000",
+    "longitude": "106.383303",
+    "latitude": "38.983236"
+  },
+  {
+    "id": "5b7fa44789eb3a1e28c603a3",
+    "code": "640300",
+    "name": "吴忠市",
+    "parentCode": "640000",
+    "longitude": "106.198393",
+    "latitude": "37.997460"
+  },
+  {
+    "id": "5b7fa44889eb3a1e28c603aa",
+    "code": "640400",
+    "name": "固原市",
+    "parentCode": "640000",
+    "longitude": "106.242610",
+    "latitude": "36.015855"
+  },
+  {
+    "id": "5b7fa44889eb3a1e28c603b1",
+    "code": "640500",
+    "name": "中卫市",
+    "parentCode": "640000",
+    "longitude": "105.196902",
+    "latitude": "37.499972"
+  },
+  {
+    "id": "5b7fa44989eb3a1e28c603b7",
+    "code": "650100",
+    "name": "乌鲁木齐市",
+    "parentCode": "650000",
+    "longitude": "87.616848",
+    "latitude": "43.825592"
+  },
+  {
+    "id": "5b7fa44a89eb3a1e28c603c3",
+    "code": "650200",
+    "name": "克拉玛依市",
+    "parentCode": "650000",
+    "longitude": "84.889207",
+    "latitude": "45.579888"
+  },
+  {
+    "id": "5b7fa44b89eb3a1e28c603c9",
+    "code": "650400",
+    "name": "吐鲁番市",
+    "parentCode": "650000",
+    "longitude": "89.189651",
+    "latitude": "42.951382"
+  },
+  {
+    "id": "5b7fa44b89eb3a1e28c603cd",
+    "code": "650500",
+    "name": "哈密市",
+    "parentCode": "650000",
+    "longitude": "93.514916",
+    "latitude": "42.818501"
+  },
+  {
+    "id": "5b7fa44c89eb3a1e28c603d1",
+    "code": "652300",
+    "name": "昌吉回族自治州",
+    "parentCode": "650000",
+    "longitude": "87.308224",
+    "latitude": "44.011182"
+  },
+  {
+    "id": "5b7fa44d89eb3a1e28c603d9",
+    "code": "652700",
+    "name": "博尔塔拉蒙古自治州",
+    "parentCode": "650000",
+    "longitude": "82.066159",
+    "latitude": "44.905588"
+  },
+  {
+    "id": "5b7fa44d89eb3a1e28c603de",
+    "code": "652800",
+    "name": "巴音郭楞蒙古自治州",
+    "parentCode": "650000",
+    "longitude": "86.145298",
+    "latitude": "41.764115"
+  },
+  {
+    "id": "5b7fa44e89eb3a1e28c603e9",
+    "code": "652900",
+    "name": "阿克苏地区",
+    "parentCode": "650000",
+    "longitude": "80.260605",
+    "latitude": "41.168779"
+  },
+  {
+    "id": "5b7fa45089eb3a1e28c603f8",
+    "code": "653100",
+    "name": "喀什地区",
+    "parentCode": "650000",
+    "longitude": "75.989755",
+    "latitude": "39.470400"
+  },
+  {
+    "id": "5b7fa44f89eb3a1e28c603f3",
+    "code": "653000",
+    "name": "克孜勒苏柯尔克孜自治州",
+    "parentCode": "650000",
+    "longitude": "76.167819",
+    "latitude": "39.714526"
+  },
+  {
+    "id": "5b7fa45189eb3a1e28c60405",
+    "code": "653200",
+    "name": "和田地区",
+    "parentCode": "650000",
+    "longitude": "79.922211",
+    "latitude": "37.114157"
+  },
+  {
+    "id": "5b7fa45289eb3a1e28c6040e",
+    "code": "654000",
+    "name": "伊犁哈萨克自治州",
+    "parentCode": "650000",
+    "longitude": "81.324136",
+    "latitude": "43.916823"
+  },
+  {
+    "id": "5b7fa45389eb3a1e28c6041a",
+    "code": "654200",
+    "name": "塔城地区",
+    "parentCode": "650000",
+    "longitude": "82.980316",
+    "latitude": "46.745364"
+  },
+  {
+    "id": "5b7fa45489eb3a1e28c60422",
+    "code": "654300",
+    "name": "阿勒泰地区",
+    "parentCode": "650000",
+    "longitude": "88.141253",
+    "latitude": "47.844924"
+  },
+  {
+    "id": "5b7fa45589eb3a1e28c6042a",
+    "code": "659000",
+    "name": "自治区直辖县级行政区划",
+    "parentCode": "650000"
+  },
+  {
+    "id": "5b7fa9cf89eb3a1e28c6161c",
+    "code": "110100",
+    "name": "北京市",
+    "parentCode": "110000",
+    "longitude": "116.407526",
+    "latitude": "39.904030"
+  },
+  {
+    "id": "5b7fa9d089eb3a1e28c6162e",
+    "code": "120100",
+    "name": "天津市",
+    "parentCode": "120000",
+    "longitude": "117.200983",
+    "latitude": "39.084158"
+  },
+  {
+    "id": "5b7fa9d989eb3a1e28c619a5",
+    "code": "310100",
+    "name": "上海市",
+    "parentCode": "310000",
+    "longitude": "121.473701",
+    "latitude": "31.230416"
+  },
+  {
+    "id": "5b7fa9fd89eb3a1e28c6203f",
+    "code": "500100",
+    "name": "重庆市",
+    "parentCode": "500000",
+    "longitude": "106.551556",
+    "latitude": "29.563009"
+  }
+]

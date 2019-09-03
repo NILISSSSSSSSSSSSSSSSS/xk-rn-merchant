@@ -1,0 +1,5 @@
+
+// 购物车列表
+export const FETCH_MALLCARTLIST = "FETCH_MALLCARTLIST";
+// 更改购物车列表商品
+export const CHANGE_MALLCARTLIST = "CHANGE_MALLCARTLIST";

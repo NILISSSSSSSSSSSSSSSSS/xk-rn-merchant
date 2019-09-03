@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/error_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_FFFFFF">
+
+    <ImageView
+        android:id="@+id/default_img"
+        android:layout_width="@dimen/dpx_150"
+        android:layout_height="@dimen/dpx_177"
+        android:layout_marginTop="@dimen/dpx_110"
+        android:src="@drawable/icon_error_screen"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dpx_22"
+        android:text="@string/string_error_screen_tips"
+        android:textColor="@color/color_777777"
+        android:textSize="14sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/default_img" />
+
+    <TextView
+        android:id="@+id/restart_btn"
+        android:layout_width="@dimen/dpx_130"
+        android:layout_height="@dimen/dpx_37"
+        android:layout_marginLeft="@dimen/dpx_48"
+        android:layout_marginTop="@dimen/dpx_76"
+        android:gravity="center"
+        android:text="@string/string_restart"
+        android:textColor="@color/color_FFFFFF"
+        android:textSize="17sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/default_img" />
+
+    <TextView
+        android:id="@+id/exit_btn"
+        android:layout_width="@dimen/dpx_130"
+        android:layout_height="@dimen/dpx_37"
+        android:layout_marginTop="@dimen/dpx_76"
+        android:layout_marginRight="@dimen/dpx_48"
+        android:gravity="center"
+        android:text="@string/string_exit"
+        android:textColor="@color/color_FFFFFF"
+        android:textSize="17sp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/default_img" />
+
+    <EditText
+        android:id="@+id/error_show_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/dpx_10"
+        android:layout_marginTop="@dimen/dpx_10"
+        android:layout_marginRight="@dimen/dpx_10"
+        android:background="@null"
+        android:maxLines="300"
+        android:paddingBottom="@dimen/dpx_10"
+        android:scrollbars="vertical"
+        android:visibility="gone"
+        app:layout_constraintTop_toBottomOf="@+id/exit_btn" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

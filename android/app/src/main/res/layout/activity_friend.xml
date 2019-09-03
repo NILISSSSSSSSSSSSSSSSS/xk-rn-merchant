@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:ignore="MissingDefaultResource">
+
+    <FrameLayout
+        android:id="@+id/frame_layout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toTopOf="@id/bottom_tab"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/color_4A000000"
+        app:layout_constraintBottom_toTopOf="@id/bottom_tab" />
+
+    <LinearLayout
+        android:id="@+id/bottom_tab"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dpx_50"
+        android:background="@color/white"
+        android:paddingBottom="@dimen/dpx_1"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <TextView
+            android:id="@+id/home_tv"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:drawableTop="@drawable/start_inactive"
+            android:gravity="center"
+            android:paddingTop="@dimen/dpx_2"
+            android:text="首页"
+            android:textColor="@color/color_777777"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/shop_tv"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:drawableTop="@drawable/home_inactive"
+            android:gravity="center"
+            android:paddingTop="@dimen/dpx_2"
+            android:text="店铺"
+            android:textColor="@color/color_777777"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/service_tv"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:drawableTop="@drawable/customer_service_inactive"
+            android:gravity="center"
+            android:paddingTop="@dimen/dpx_2"
+            android:text="客服"
+            android:textColor="@color/color_777777"
+            android:textSize="12sp" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:drawableTop="@drawable/friends_active"
+            android:gravity="center"
+            android:paddingTop="@dimen/dpx_2"
+            android:text="好友"
+            android:textColor="@color/color_777777"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/me_tv"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:drawableTop="@drawable/my_inactive"
+            android:gravity="center"
+            android:paddingTop="@dimen/dpx_2"
+            android:text="我的"
+            android:textColor="@color/color_777777"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

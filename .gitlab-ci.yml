@@ -1,0 +1,55 @@
+# image: reactnativecommunity/react-native-android
+before_script:
+  - export GRADLE_USER_HOME=/cache/.gradle
+  - export LANG="en_US.UTF-8"
+  - export LANGUAGE="en_US.UTF-8"
+  - export LC_ALL="en_US.UTF-8"
+  - export TIME_FORMAT="%Y-%m-%d %H:%M:%S"
+  - export TASK_TIME_FILE="starttime.log"
+  - npm i -g envinfo && envinfo
+  - echo "DINGTALK_ACCESSTOKEN=$DINGTALK_ACCESSTOKEN,PGYER_API_TOKEN=$PGYER_API_TOKEN,PGYER_ID=$PGYER_ID,BUILD_ENVIR=$BUILD_ENVIR,BUILD_ENVIR_NAME=$BUILD_ENVIR_NAME"
+
+cache:
+  paths:
+    - android/app/build/outputs/apk/release/app-release.apk
+    - starttime.log
+
+stages:
+  - build
+  - upload
+  - report
+
+Build:
+  stage: build
+  only:
+    - triggers
+  script:
+    - echo "192.168.2.201 dev-tools.xksquare.com" > /etc/hosts
+    - date +"$TIME_FORMAT" > $TASK_TIME_FILE
+    - yarn install
+    - yarn run envir:$BUILD_ENVIR
+    - yarn run logger:disable
+    - cd android && chmod +x gradlew
+    - ./gradlew --debug --stacktrace assembleRelease
+    - cat $CI_PROJECT_DIR/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/util/JSStackTrace.java
+
+Upload:
+  stage: upload
+  script:
+    - echo "$CI_PROJECT_DIR/android/app/build/outputs/apk/release/app-release.apk"
+    - curl -F "file=@$CI_PROJECT_DIR/android/app/build/outputs/apk/release/app-release.apk" -F "_api_key=$PGYER_API_TOKEN" https://www.pgyer.com/apiv2/app/upload
+  only:
+    - triggers
+
+Report:
+  stage: report
+  script:
+    - export START_TIME=`cat $TASK_TIME_FILE`
+    - export END_TIME=`date +"$TIME_FORMAT"`
+    - export START_TIMESTAMP=$(date -j -f "$TIME_FORMAT" "$START_TIME" +%s);
+    - export END_TIMESTAMP=$(date -j -f "$TIME_FORMAT" "$END_TIME" +%s);
+    - export TASK_TIME=$((END_TIMESTAMP-START_TIMESTAMP));
+    - export CONTENT="#### 商联App打包服务 \n> 【环境名称】${BUILD_ENVIR_NAME}环境-Android \n\n> 【构建方式】gitlab-runner \n\n> 【构建编号】${CI_PIPELINE_ID} \n\n>【构建结果】成功 \n\n> 【开始时间】${START_TIME} \n\n> 【结束时间】${END_TIME} \n\n> 【任务耗时】${TASK_TIME}s \n\n> 【下载二维码】 \n\n> ![screenshot](https://www.pgyer.com/app/qrcode/$PGYER_ID) \n\n> 【下载地址】[点击查看](https://www.pgyer.com/$PGYER_ID) \n\n"
+    - 'curl https://oapi.dingtalk.com/robot/send?access_token=$DINGTALK_ACCESSTOKEN -H "Content-Type: application/json" -d "{\"msgtype\": \"markdown\",\"markdown\": {\"title\":\"商联测试服\",\"text\": \"${CONTENT}\"},\"at\": {\"atMobiles\": [\"13648091632\",], \"isAtAll\": true}}"'
+  only:
+    - triggers

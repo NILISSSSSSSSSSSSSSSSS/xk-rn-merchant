@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dialog_layout"
+    android:layout_width="@dimen/dpx_110"
+    android:layout_height="@dimen/dpx_110"
+    android:background="@drawable/shape_progress_dialog_bg"
+    android:orientation="vertical">
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_width="@dimen/dpx_50"
+        android:layout_height="@dimen/dpx_50"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="@dimen/dpx_30"
+        android:layout_marginTop="@dimen/dpx_15"
+        android:layout_marginEnd="@dimen/dpx_30"
+        android:indeterminateDrawable="@drawable/anim" />
+
+    <ImageView
+        android:id="@+id/iv"
+        android:layout_width="@dimen/dpx_50"
+        android:layout_height="@dimen/dpx_50"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="@dimen/dpx_30"
+        android:layout_marginTop="@dimen/dpx_15"
+        android:layout_marginEnd="@dimen/dpx_30"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="@dimen/dpx_15"
+        android:layout_marginTop="@dimen/dpx_10"
+        android:layout_marginEnd="@dimen/dpx_15"
+        android:layout_marginBottom="@dimen/dpx_15"
+        android:text="正在加载"
+        android:textColor="#fff" />
+
+</LinearLayout>

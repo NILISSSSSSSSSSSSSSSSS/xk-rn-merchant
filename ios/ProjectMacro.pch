@@ -1,0 +1,65 @@
+//
+//  ProjectMacro.pch
+//  XKSquare
+//
+//  Created by william on 2018/7/13.
+//  Copyright © 2018年 xk. All rights reserved.
+//
+
+#ifndef ProjectMacro_pch
+#define ProjectMacro_pch
+
+
+#import "XKGlobalHeaderConfig.h"
+#import "ProjectDataDic.h"
+#import <XKCommonDefine.h>
+
+//*********************************** 账号 *********************************************
+#define XKBuglyAppId              @"0e14724e34"                          //BuglyAppId
+#define XKBaiduMapAppKey          @"4ywK25vS7TUToCAorxBZolzaIO5eCwv9"    //百度地图appkey
+#define XKNIMAppKey               @"abe7a770f36b0621d05426343363baa5"    //云信IMAppKey
+
+
+#define XKJPushAppKey             @"757dedda0859fccf90e2ed5d"            //极光appkey(sh)
+#define XKSinaWeiboAppKey         @"2327109240"                          //微博appkey(sh)
+#define XKSinaWeiboAppSecret      @"dbe2c6c9e5ce9b2165b4c1a6afbf2a2e"    //微博AppSecret(sh)
+#define XKSinaRedirectUri         @"https://sns.whalecloud.com/sina2/callback"//微博RedirectUri
+#define XKQQAppId                 @"101537723"                        //qqAppId(sh)
+#define XKQQAppKey                @"dbb209176a5eb3ab769584e2c499805e"                    //qqAppKey(sh)
+#define XKTestWeChatAppId             @"wx469f90e31aa7c9d8"                  //微信AppId(sh)
+#define XKTestWeChatAppSecret         @"f07a68f494f208c2d3fc255f6c8efc1d"    //微信AppSecret(sh)
+#define XKReleaseWeChatAppId             @"wx852fa85c26f60106"                  //微信AppId(sh)
+#define XKReleaseWeChatAppSecret         @"3c890a237dc25bd990294921cde1d393"    //微信AppSecret(sh)
+
+
+
+//**************************  常用资源 **************************************************
+#define kRightBlackArrowImgName @"xk_btn_Mine_Setting_nextBlack"
+#define kRightWhiteArrowImgName @"xk_btn_Mine_Setting_nextWhite"
+#define kleftBlackArrowImgName @"xk_ic_login_back"
+#define kleftWhiteArrowImgName @"xk_btn_Mine_setting_back"
+#define kRightGrayArrowImgName @"xk_btn_order_grayArrow"
+
+#define kSeverCode    @"1001"
+#define kOfflineCode  @"1002"
+#define kHotelCode    @"1003"
+#define kOnlineCode   @"1004"
+
+
+
+#ifdef DEBUG
+
+#define XKNIMAPNSCerName @"XKShopDevPush"
+#else
+#define XKNIMAPNSCerName @"XKShopDisPush"
+
+#endif
+
+/* --------------------------- 常用工具宏-----------------------------*/
+
+#define kQNPrefix(key) [NSString stringWithFormat:@"https://gc.xksquare.com/%@",key]
+
+#import "ProjectResource.h"
+
+
+#endif /* ProjectMacro_pch */

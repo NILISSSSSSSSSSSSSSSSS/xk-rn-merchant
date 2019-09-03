@@ -1,0 +1,195 @@
+[
+  {
+    "key": "shop",
+    "name": "店铺权限",
+    "children": [
+      {
+        "key": "editShop",
+        "name": "编辑店铺",
+        "icon": "",
+        "serviceList": []
+      },
+      {
+        "key": "switch",
+        "name": "接单开关",
+        "icon": "",
+        "serviceList": []
+      },
+      {
+        "key": "receivablesQR",
+        "name": "收款二维码",
+        "icon": "",
+        "serviceList": []
+      },
+      {
+        "key": "sweepCode",
+        "name": "扫码",
+        "icon": "",
+        "serviceList": []
+      },
+      {
+        "key": "offlineOrder",
+        "name": "新增订单",
+        "icon": "",
+        "serviceList": []
+      },
+      {
+        "key": "shopService",
+        "name": "店铺客服",
+        "icon": "",
+        "serviceList": []
+      },
+      {
+        "key": "promotion",
+        "name": "促销管理",
+        "icon": "",
+        "serviceList": []
+      },
+      {
+        "key": "category",
+        "name": "品类管理",
+        "icon": "",
+        "serviceList": []
+      },
+      {
+        "key": "order",
+        "name": "订单管理",
+        "icon": "",
+        "serviceList": []
+      },
+      {
+        "key": "shopManager",
+        "name": "店铺管理",
+        "icon": "",
+        "serviceList": []
+      },
+      {
+        "key": "freight",
+        "name": "运费设置",
+        "icon": "",
+        "serviceList": []
+      },
+      {
+        "key": "commodity",
+        "name": "商品管理",
+        "icon": "",
+        "serviceList": []
+      },
+      {
+        "key": "evaluate",
+        "name": "评价管理",
+        "icon": "",
+        "serviceList": []
+      },
+      {
+        "key": "seat",
+        "name": "席位管理",
+        "icon": "",
+        "serviceList": []
+      },
+      {
+        "key": "gave",
+        "name": "授权管理",
+        "icon": "",
+        "serviceList": []
+      },
+      {
+        "key": "shopFinance",
+        "name": "财务中心",
+        "icon": "",
+        "serviceList": []
+      },
+      {
+        "key": "statistics",
+        "name": "数据中心",
+        "icon": "",
+        "serviceList": []
+      }
+    ]
+  },
+  {
+    "key": "merchant",
+    "name": "联盟商权限",
+    "children": [
+      {
+        "key": "welfareMall",
+        "name": "福利商城",
+        "icon": "",
+        "serviceList": []
+      },
+      {
+        "key": "wholesaleMall",
+        "name": "批发商城",
+        "icon": "",
+        "serviceList": []
+      },
+      {
+        "key": "winning",
+        "name": "中奖信息",
+        "icon": "",
+        "serviceList": []
+      },
+      {
+        "key": "latestRevenue",
+        "name": "最新收益",
+        "icon": "",
+        "serviceList": []
+      },
+      {
+        "key": "merchantProfit",
+        "name": "联盟商收益",
+        "icon": "",
+        "serviceList": []
+      },
+      {
+        "key": "accountFinance",
+        "name": "账户财务",
+        "icon": "",
+        "serviceList": []
+      },
+      {
+        "key": "group",
+        "name": "联盟商群",
+        "icon": "",
+        "serviceList": []
+      },
+      {
+        "key": "logistics",
+        "name": "晓可物流",
+        "icon": "",
+        "serviceList": []
+      },
+      {
+        "key": "merchantInfo",
+        "name": "联盟商信息",
+        "icon": "",
+        "serviceList": []
+      }
+    ]
+  },
+  {
+    "key": "service",
+    "name": "客服权限",
+    "children": [
+      {
+        "key": "friend",
+        "name": "可友",
+        "icon": "",
+        "serviceList": []
+      },
+      {
+        "key": "friendCircle",
+        "name": "可友圈",
+        "icon": "",
+        "serviceList": []
+      }
+    ]
+  },
+  {
+    "key": "other",
+    "name": "其它权限",
+    "children": [
+
+    ]
+  }
+]

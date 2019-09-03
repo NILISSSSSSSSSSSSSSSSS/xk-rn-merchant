@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xkshop.view_manager.CusLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/im_color_EEEEEE"
+    android:orientation="vertical">
+
+    <fragment
+        android:id="@+id/fragment"
+        android:name="cn.scshuimukeji.immerchant.home.MerchantHomeFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</com.xkshop.view_manager.CusLinearLayout>

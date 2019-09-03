@@ -1,0 +1,6 @@
+// 自营商城
+export const SOMRECOMMENDGOODS_LIST = "SOMRECOMMENDGOODS_LIST"; // 所有人的最新揭晓
+export const SOMCACHEDATA = 'SOMCACHEDATA' // 缓存首页banner，推荐商品
+export const SOMORDERLIST = 'SOMORDERLIST'
+export const SOM_PAY_PARAMS = "SOM_PAY_PARAMS";
+export const SOM_PAY_RECORDROUTER = "SOM_PAY_RECORDROUTER";

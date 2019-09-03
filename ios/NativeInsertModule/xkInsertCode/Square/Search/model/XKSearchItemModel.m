@@ -1,0 +1,13 @@
+//
+//  XKSearchItemModel.m
+//  XKSquare
+//
+//  Created by hupan on 2018/9/6.
+//  Copyright © 2018年 xk. All rights reserved.
+//
+
+#import "XKSearchItemModel.h"
+
+@implementation XKSearchItemModel
+
+@end

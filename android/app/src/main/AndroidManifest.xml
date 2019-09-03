@@ -1,0 +1,172 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+  package="com.xkshop">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission
+        android:name="android.permission.WRITE_SETTINGS"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+      android:name=".MainApplication"
+      android:allowBackup="false"
+      android:icon="@mipmap/ic_launcher"
+      android:label="@string/app_name"
+      android:largeHeap="true"
+      android:networkSecurityConfig="@xml/network_security_config"
+      android:supportsRtl="true"
+      android:theme="@style/AppTheme"
+      tools:ignore="AllowBackup,GoogleAppIndexingWarning,UnusedAttribute"
+      tools:replace="android:allowBackup"
+      >
+      <meta-data
+            android:name="channel"
+            android:value="baidu;tencent;xiaomi;" />
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+        <!-- //////////////////////////////////////////////////////////// -->
+        <!-- //////////////////// 云信 SDK 通讯 Start //////////////////// -->
+        <!-- //////////////////////////////////////////////////////////// -->
+        <!-- 权限复制到其他项目中时,注意修改 authorities 属性中的包名 -->
+        <!-- 云信进程间通信 Provider -->
+        <provider
+            android:name="com.netease.nimlib.ipc.NIMContentProvider"
+            android:authorities="cn.scshuimukeji.immerchanttest.ipc.provider"
+            android:exported="false"
+            android:process=":core" /> <!-- //////////////////////////////////////////////////////////// -->
+        <!-- ////////////////////  云信 SDK 通讯 End  //////////////////// -->
+        <!-- //////////////////////////////////////////////////////////// -->
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="cn.scshuimukeji.immerchanttest.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="cpr3k0w5GxmZ0Ramh2GNOtvhCDFTVe6f" />
+
+        <activity
+            android:name=".wxapi.WXEntryActivity"
+            android:excludeFromRecents="true"
+            android:exported="true"
+            android:launchMode="singleTop"
+            android:theme="@style/TransparentTheme" />
+        <activity
+            android:name="com.alipay.sdk.app.H5PayActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:exported="true"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".wxapi.WXPayEntryActivity"
+            android:exported="true"
+            android:label="@string/app_name" />
+      <activity
+        android:name=".MainActivity"
+        android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+        android:label="@string/app_name"
+        android:launchMode="singleTask"
+        android:screenOrientation="portrait"
+        android:windowSoftInputMode="adjustResize">
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+      </activity>
+
+        <meta-data
+            android:name="JPUSH_APPKEY"
+            android:value="${JPUSH_APPKEY}" />
+        <meta-data
+            android:name="JPUSH_CHANNEL"
+            android:value="${APP_CHANNEL}" />
+
+        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+        <activity
+            android:name=".scan.ScanResultActivity"
+            android:theme="@style/TransparentTheme" />
+        <activity android:name=".SplashActivity" />
+        <activity android:name=".ui.RNGallerySelectActivity" />
+        <activity
+            android:name=".im.IMLoginActivity"
+            android:theme="@style/IMLoginTheme" />
+        <activity
+            android:name="com.tencent.tauth.AuthActivity"
+            android:launchMode="singleTask"
+            android:noHistory="true">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="tencent1107815223" /> <!-- 获取的APPID -->
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".im.FriendActivity"
+            android:theme="@style/TransparentTheme"
+            android:windowSoftInputMode="adjustPan" />
+
+        <activity
+            android:name=".im.IMNotificationActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/TransparentTheme" />
+
+        <activity android:name=".scan.XKMTRouterActivity">
+            <intent-filter>
+                <data
+                    android:host="shuimukeji.cn"
+                    android:scheme="xksl" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity2rn.RNSOMGoodsDetailActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTranslucentStatusTheme" />
+        <activity
+            android:name=".activity2rn.RNWMGoodsDetailActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTranslucentStatusTheme" />
+        <activity
+            android:name=".activity2rn.RNPersonalDetailActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTranslucentStatusTheme" />
+        <activity
+            android:name=".ErrorScreenActivity"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".util.player.PlayerSingleActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustNothing" />
+    </application>
+
+</manifest>

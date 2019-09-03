@@ -1,0 +1,17 @@
+listen_address = ":9253"
+concurrent = 1
+check_interval = 0
+
+[session_server]
+  listen_address = "0.0.0.0:8093"
+  session_timeout = 1800
+
+[[runners]]
+  name = "scxkkj-jsdeiMac-2.local"
+  url = "http://192.168.2.201/"
+  token = "5723fee61e62956b9cbb7178022f12"
+  executor = "shell"
+  output_limit = 1024000
+  builds_dir = "/Users/scxkkj-js/.gitlab-runner/xk-rn-merchant/builds/"
+  cache_dir = "/Users/scxkkj-js/.gitlab-runner/xk-rn-merchant/cache/"
+  [runners.custom_build_dir]

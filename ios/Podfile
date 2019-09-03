@@ -1,0 +1,105 @@
+# CocoaPods 官方源
+source 'https://github.com/CocoaPods/Specs.git'
+# xk 私有库源
+source 'http://git.xksquare.com/XK-iOS-Component/xkRepo.git'
+platform :ios, '9.0'
+require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
+
+target 'xkMerchant' do
+  # Pods for xkshop
+  pod 'React', :path => '../node_modules/react-native/'
+  pod 'React-Core', :path => '../node_modules/react-native/React'
+  pod 'React-DevSupport', :path => '../node_modules/react-native/React'
+  pod 'React-fishhook', :path => '../node_modules/react-native/Libraries/fishhook'
+  pod 'React-RCTActionSheet', :path => '../node_modules/react-native/Libraries/ActionSheetIOS'
+  pod 'React-RCTAnimation', :path => '../node_modules/react-native/Libraries/NativeAnimation'
+  pod 'React-RCTBlob', :path => '../node_modules/react-native/Libraries/Blob'
+  pod 'React-RCTImage', :path => '../node_modules/react-native/Libraries/Image'
+  pod 'React-RCTLinking', :path => '../node_modules/react-native/Libraries/LinkingIOS'
+  pod 'React-RCTNetwork', :path => '../node_modules/react-native/Libraries/Network'
+  pod 'React-RCTSettings', :path => '../node_modules/react-native/Libraries/Settings'
+  pod 'React-RCTText', :path => '../node_modules/react-native/Libraries/Text'
+  pod 'React-RCTVibration', :path => '../node_modules/react-native/Libraries/Vibration'
+  pod 'React-RCTWebSocket', :path => '../node_modules/react-native/Libraries/WebSocket'
+
+  pod 'React-cxxreact', :path => '../node_modules/react-native/ReactCommon/cxxreact'
+  pod 'React-jsi', :path => '../node_modules/react-native/ReactCommon/jsi'
+  pod 'React-jsiexecutor', :path => '../node_modules/react-native/ReactCommon/jsiexecutor'
+  pod 'React-jsinspector', :path => '../node_modules/react-native/ReactCommon/jsinspector'
+  pod 'yoga', :path => '../node_modules/react-native/ReactCommon/yoga'
+
+
+#   inhibit_all_warnings!
+
+  pod 'TZImagePickerController'
+  pod 'MJExtension',"3.0.15.1"
+  pod 'UMCCommon',"1.5.3"
+  pod 'UMCAnalytics',"5.5.2"
+  pod 'SDWebImage', '4.2.3'
+  pod 'TZImagePickerController' #图片选择器
+  pod 'FMDB', '2.7.2'		           #数据库封装
+  pod 'Reachability', '3.2'		   #网络检测
+  pod 'Masonry', '1.1.0'		   #autolayout约束
+  pod 'SVProgressHUD', '2.1.2'	   #hud弹框
+  pod 'AFNetworking', '3.2.1'
+  pod 'MJRefresh', '3.1.15.3'
+  pod 'Qiniu','7.2.4'			   #七牛
+  pod 'IQKeyboardManager', '6.1.1'       #键盘工具
+  pod 'BlocksKit','2.2.5'		   #快速绑定UI视图点击事件等
+  pod 'NIMKit', '2.9.6'		   #云信
+  pod 'RZColorful','1.1.6'	           #富文本工具
+  pod 'YYModel','1.0.4'		   #模型字典工具
+  pod 'YYText','1.0.7'		   #富文本 ui控件 布局等
+  pod 'PLPlayerKit', :podspec => 'https://raw.githubusercontent.com/pili-engineering/PLPlayerKit/master/PLPlayerKit-Universal.podspec'  #七牛播放器SDK(真机 + 模拟器)
+  pod 'AlipaySDK-iOS','15.5.5'	   #支付宝支付
+  pod 'BaiduMapKit','4.2.0'
+  pod 'BMKLocationKit','1.3'
+  pod 'XKConsoleBoard', :git => 'https://github.com/sy5075391/XKConsoleBoard.git'
+  pod 'YYCategories'
+
+  # 项目基础组件库
+  pod 'XKCommonDefine'
+  pod 'XKNetWork'
+  pod 'XKUploadManager','1.0.5'
+  pod 'XKFriendsCacheManager'
+
+  #项目业务组件库
+  pod "XKMediator"
+  pod 'XKCategary'
+
+  pod 'DoubleConversion', :podspec => '../node_modules/react-native/third-party-podspecs/DoubleConversion.podspec'
+  pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
+  pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
+  pod 'Picker', :path => '../node_modules/react-native-picker-xk'
+  pod 'JCoreRN', :path => '../node_modules/jcore-react-native'
+  pod 'JPushRN', :path => '../node_modules/jpush-react-native'
+  pod 'react-native-wechat', :path => '../node_modules/@scxkkj/react-native-wechat'
+  pod 'RNFS', :path => '../node_modules/react-native-fs'
+  pod 'RNSVG', :path => '../node_modules/react-native-svg'
+  pod 'react-native-video', :path => '../node_modules/react-native-video'
+  pod 'RNDeviceInfo', :path => '../node_modules/react-native-device-info'
+  pod 'react-native-photo-view-ex', :path => '../node_modules/react-native-photo-view-ex'
+  pod 'ReactNativeExceptionHandler', :path => '../node_modules/react-native-exception-handler'
+  pod 'react-native-view-shot', :path => '../node_modules/react-native-view-shot'
+
+  pod 'react-native-webview', :path => '../node_modules/react-native-webview'
+  pod 'react-native-splash-screen', :path => '../node_modules/react-native-splash-screen'
+  pod 'react-native-audio-player', :path => '../node_modules/@scxkkj/react-native-audio-player'
+  
+  pod 'react-native-cameraroll', :path => '../node_modules/@react-native-community/cameraroll'
+
+  use_native_modules!
+end
+
+# 忽略警告
+install! 'cocoapods',
+    :deterministic_uuids => false
+
+# 移除 pod 引入的 React
+post_install do |installer|
+    installer.pods_project.targets.each do |target|
+        if target.name == "React"
+            target.remove_from_project
+        end
+    end
+end
